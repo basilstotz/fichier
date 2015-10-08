@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 08 Oct 2015 17:44:26 +0200
+Source: fichier
+Binary: fichier
+Architecture: source all
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz@amxa.ch>
+Description: 
+ fichier    - <insert up to 60 chars description>
+Changes: 
+ fichier (1.0) unstable; urgency=low
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1: 
+ f418ad2c192539aab2ea500cb2d71cfdb2f6c060 540 fichier_1.0.dsc
+ f180eb889ab5069cde351419413e34de5b55e2ea 36422866 fichier_1.0.tar.gz
+ 5cdc6b6a7c6a68a96d1f83ac5dc634fb63c6363a 1032 fichier_1.0_all.deb
+Checksums-Sha256: 
+ ef93a4b880effc2ad7cc1b6136ac35efdf2aa4fcfb34eddb30c7a431e4b6aa86 540 fichier_1.0.dsc
+ dd00c49b9614e2013a85d4979640e844765cb8479819fb4212328e03e4bcc1c8 36422866 fichier_1.0.tar.gz
+ 53dee86fad62881ea6c9c4e221c8e640ccd12a947f5578831226120d5a5caf5c 1032 fichier_1.0_all.deb
+Files: 
+ 58ff374799798bc264f1f176c140abbe 540 unknown optional fichier_1.0.dsc
+ 0530f714ffdee334dbf8e7864c9de948 36422866 unknown optional fichier_1.0.tar.gz
+ 6c3034e9888fb0c8196e347898aba2b8 1032 unknown optional fichier_1.0_all.deb

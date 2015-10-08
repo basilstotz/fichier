@@ -1,0 +1,4394 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data_records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+     <magazine>3.1,3.2,3.3,4.1,4.2,4.3</magazine>
+     <magazine>5.1,5.2,6.1,6.2</magazine>
+     <magazine>7.1,7.2,7.3,7.4,7.5</magazine> 
+     <!-- <magazine>9.2,9.3,9.4,9.5</magazine> -->	 
+
+
+
+
+	<record num="1">
+		<wort_fr>l&apos;alphabet</wort_fr>
+		<wort_audio>31_1_lalphabet.mp3</wort_audio>
+		<wort_de>das Alphabet</wort_de>
+		<mag>3.1</mag>
+		<parc>1</parc>
+		<satz_fr>le monstre de l&apos;alphabet</satz_fr>
+		<satz_audio>31_1_le_monstre_de_laphabet.mp3</satz_audio>
+		<satz_de>das Buchstabenmonster</satz_de>
+	</record>
+	<record num="2">
+		<wort_fr>chatouiller</wort_fr>
+		<wort_audio>31_1_chatouiller.mp3</wort_audio>
+		<wort_de>kitzeln</wort_de>
+		<mag>3.1</mag>
+		<parc>1</parc>
+		<satz_fr>On peut chatouiller le monstre.</satz_fr>
+		<satz_audio>31_1_On_peut_chatouiller_le_monstre.mp3</satz_audio>
+		<satz_de>Man kann das Monster kitzeln.</satz_de>
+	</record>
+	<record num="3">
+		<wort_fr>une collection</wort_fr>
+		<wort_audio>31_1_une_collection.mp3</wort_audio>
+		<wort_de>eine Sammlung</wort_de>
+		<mag>3.1</mag>
+		<parc>1</parc>
+		<satz_fr>Monsieur Point a une belle collection.</satz_fr>
+		<satz_audio>31_1_Monsieur_Point_a_une_belle_collection.mp3</satz_audio>
+		<satz_de>Herr Point hat eine schöne Sammlung.</satz_de>
+	</record>
+	<record num="4">
+		<wort_fr>collectionner</wort_fr>
+		<wort_audio>31_1_collectionner.mp3</wort_audio>
+		<wort_de>sammeln</wort_de>
+		<mag>3.1</mag>
+		<parc>1</parc>
+		<satz_fr>Monsieur Point collectionne des lettres et des mots.</satz_fr>
+		<satz_audio>31_1_Monsieur_Point_collectionne_des_lettres_et_des_mots.mp3</satz_audio>
+		<satz_de>Herr Point sammelt Buchstaben und Wörter.</satz_de>
+	</record>
+	<record num="5">
+		<wort_fr>se comprendre</wort_fr>
+		<wort_audio>31_1_se_comprendre.mp3</wort_audio>
+		<wort_de>einander verstehen</wort_de>
+		<mag>3.1</mag>
+		<parc>1</parc>
+		<satz_fr>Sans mots, il est impossible de se comprendre.</satz_fr>
+		<satz_audio>31_1_Sans_mots_il_est_impossible_de_se_comprendre.mp3</satz_audio>
+		<satz_de>Ohne Worte ist es unmöglich, einander zu verstehen.</satz_de>
+	</record>
+	<record num="6">
+		<wort_fr>une lettre</wort_fr>
+		<wort_audio>31_1_une_lettre.mp3</wort_audio>
+		<wort_de>ein Buchstabe</wort_de>
+		<mag>3.1</mag>
+		<parc>1</parc>
+		<satz_fr>«Nez» a trois lettres.</satz_fr>
+		<satz_audio>31_1_Nez_a_trois_lettres.mp3</satz_audio>
+		<satz_de>"Nez" hat drei Buchstaben.</satz_de>
+	</record>
+	<record num="7">
+		<wort_fr>manger</wort_fr>
+		<wort_audio>31_1_manger.mp3</wort_audio>
+		<wort_de>essen / fressen</wort_de>
+		<mag>3.1</mag>
+		<parc>1</parc>
+		<satz_fr>Ne mange pas trop.</satz_fr>
+		<satz_audio>31_1_Ne_mange_pas_trop.mp3</satz_audio>
+		<satz_de>Iss nicht zu viel.</satz_de>
+	</record>
+	<record num="8">
+		<wort_fr>le monstre</wort_fr>
+		<wort_audio>31_1_le_monstre.mp3</wort_audio>
+		<wort_de>das Monster</wort_de>
+		<mag>3.1</mag>
+		<parc>1</parc>
+		<satz_fr>Le monstre avale tout.</satz_fr>
+		<satz_audio>31_1_Le_monstre_avale_tout.mp3</satz_audio>
+		<satz_de>Das Monster verschlingt alles.</satz_de>
+	</record>
+	<record num="9">
+		<wort_fr>un mot</wort_fr>
+		<wort_audio>31_1_un_mot.mp3</wort_audio>
+		<wort_de>ein Wort</wort_de>
+		<mag>3.1</mag>
+		<parc>1</parc>
+		<satz_fr>«Puce» est un petit mot.</satz_fr>
+		<satz_audio>31_1_Puce_est_un_petit_mot.mp3</satz_audio>
+		<satz_de>"Puce" ist ein kleines Wort.</satz_de>
+	</record>
+	<record num="10">
+		<wort_fr>parler</wort_fr>
+		<wort_audio>31_1_parler.mp3</wort_audio>
+		<wort_de>sprechen</wort_de>
+		<mag>3.1</mag>
+		<parc>1</parc>
+		<satz_fr>Sans mots, il est impossible de parler.</satz_fr>
+		<satz_audio>31_1_Sans_mots_il_est_impossible_de_parler.mp3</satz_audio>
+		<satz_de>Ohne Wörter ist es unmöglich zu sprechen.</satz_de>
+	</record>
+	<record num="11">
+		<wort_fr>un abricot</wort_fr>
+		<wort_audio>31_2_un_abricot.mp3</wort_audio>
+		<wort_de>eine Aprikose</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;aimerais un abricot.</satz_fr>
+		<satz_audio>31_2_Jaimerais_un_abricot.mp3</satz_audio>
+		<satz_de>Ich hätte gern eine Aprikose.</satz_de>
+	</record>
+	<record num="12">
+		<wort_fr>un ballon</wort_fr>
+		<wort_audio>31_2_un_ballon.mp3</wort_audio>
+		<wort_de>ein Ballon</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Tu as un ballon?</satz_fr>
+		<satz_audio>31_2_Tu_as_un_ballon.mp3</satz_audio>
+		<satz_de>Hast du einen Ballon?</satz_de>
+	</record>
+	<record num="13">
+		<wort_fr>un bouquet</wort_fr>
+		<wort_audio>31_2_un_bouquet.mp3</wort_audio>
+		<wort_de>ein Blumenstrauss</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Voici un bouquet.</satz_fr>
+		<satz_audio>31_2_Voici_un_bouquet.mp3</satz_audio>
+		<satz_de>Hier ist ein Blumenstrauss.</satz_de>
+	</record>
+	<record num="14">
+		<wort_fr>un éléphant</wort_fr>
+		<wort_audio>31_2_un_elephant.mp3</wort_audio>
+		<wort_de>ein Elefant</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>un éléphant africain</satz_fr>
+		<satz_audio>31_2_un_elephant_africain.mp3</satz_audio>
+		<satz_de>ein afrikanischer Elephant</satz_de>
+	</record>
+	<record num="15">
+		<wort_fr>une glace</wort_fr>
+		<wort_audio>31_2_une_glace.mp3</wort_audio>
+		<wort_de>eine Glace</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;aimerais une glace.</satz_fr>
+		<satz_audio>31_2_Jaimerais_une_glace.mp3</satz_audio>
+		<satz_de>Ich hätte gern eine Glace.</satz_de>
+	</record>
+	<record num="16">
+		<wort_fr>un hélicoptère</wort_fr>
+		<wort_audio>31_2_un_helicoptere.mp3</wort_audio>
+		<wort_de>ein Helikopter</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Regarde, un hélicoptère!</satz_fr>
+		<satz_audio>31_2_Regarde_un_helicoptere.mp3</satz_audio>
+		<satz_de>Schau, ein Helikopter!</satz_de>
+	</record>
+	<record num="17">
+		<wort_fr>une mandarine</wort_fr>
+		<wort_audio>31_2_une_mandarine.mp3</wort_audio>
+		<wort_de>eine Mandarine</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;aimerais une mandarine.</satz_fr>
+		<satz_audio>31_2_Jaimerais_une_mandarine.mp3</satz_audio>
+		<satz_de>Ich hätte gern eine Mandarine.</satz_de>
+	</record>
+	<record num="18">
+		<wort_fr>un microphone</wort_fr>
+		<wort_audio>31_2_un_microphone.mp3</wort_audio>
+		<wort_de>ein Mikrofon</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Voici un microphone.</satz_fr>
+		<satz_audio>31_2_Voici_un_microphone.mp3</satz_audio>
+		<satz_de>Hier ist ein Mikrofon.</satz_de>
+	</record>
+	<record num="19">
+		<wort_fr>une panthère</wort_fr>
+		<wort_audio>31_2_une_panthere.mp3</wort_audio>
+		<wort_de>ein Panther</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>La panthère vit en Afrique.</satz_fr>
+		<satz_audio>31_2_La_panthere_vit_en_Afrique.mp3</satz_audio>
+		<satz_de>Der Panther lebt in Afrika.</satz_de>
+	</record>
+	<record num="20">
+		<wort_fr>une photo</wort_fr>
+		<wort_audio>31_2_une_photo.mp3</wort_audio>
+		<wort_de>ein Foto</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Regarde la photo.</satz_fr>
+		<satz_audio>31_2_Regarde_la_photo.mp3</satz_audio>
+		<satz_de>Schau das Foto an.</satz_de>
+	</record>
+	<record num="21">
+		<wort_fr>un pirate</wort_fr>
+		<wort_audio>31_2_un_pirate.mp3</wort_audio>
+		<wort_de>ein Pirat</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Attention, un pirate!</satz_fr>
+		<satz_audio>31_2_Attention_un_pirate.mp3</satz_audio>
+		<satz_de>Achtung, ein Pirat!</satz_de>
+	</record>
+	<record num="22">
+		<wort_fr>un porte-monnaie</wort_fr>
+		<wort_audio>31_2_un_portemonnaie.mp3</wort_audio>
+		<wort_de>ein Portemonnaie</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Tu as un porte-monnaie?</satz_fr>
+		<satz_audio>31_2_Tu_as_un_portemonnaie.mp3</satz_audio>
+		<satz_de>Hast du ein Portemonnaie?</satz_de>
+	</record>
+	<record num="23">
+		<wort_fr>un pyjama</wort_fr>
+		<wort_audio>31_2_un_pyjama.mp3</wort_audio>
+		<wort_de>ein Pyjama</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;ai un pyjama orange.</satz_fr>
+		<satz_audio>31_2_Jai_un_pyjama_orange.mp3</satz_audio>
+		<satz_de>Ich habe ein orangefarbenes Pyjama.</satz_de>
+	</record>
+	<record num="24">
+		<wort_fr>une tasse</wort_fr>
+		<wort_audio>31_2_une_tasse.mp3</wort_audio>
+		<wort_de>eine Tasse</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>une tasse de thé</satz_fr>
+		<satz_audio>31_2_une_tasse_de_the.mp3</satz_audio>
+		<satz_de>Eine Tasse Tee</satz_de>
+	</record>
+	<record num="25">
+		<wort_fr>une tomate</wort_fr>
+		<wort_audio>31_2_une_tomate.mp3</wort_audio>
+		<wort_de>eine Tomate</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;aimerais une salade de tomates.</satz_fr>
+		<satz_audio>31_2_Jaimerais_une_salade_de_tomates.mp3</satz_audio>
+		<satz_de>Ich hätte gern einen Tomatensalat.</satz_de>
+	</record>
+	<record num="26">
+		<wort_fr>un tracteur</wort_fr>
+		<wort_audio>31_2_un_tracteur.mp3</wort_audio>
+		<wort_de>ein Traktor</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>un grand tracteur</satz_fr>
+		<satz_audio>31_2_un_grand_tracteur.mp3</satz_audio>
+		<satz_de>ein grosser Traktor</satz_de>
+	</record>
+	<record num="27">
+		<wort_fr>une trottinette</wort_fr>
+		<wort_audio>31_2_une_trottinette.mp3</wort_audio>
+		<wort_de>ein Trottinett</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;aimerais une trottinette.</satz_fr>
+		<satz_audio>31_2_Jaimerais_une_trottinette.mp3</satz_audio>
+		<satz_de>Ich hätte gern ein Trottinett.</satz_de>
+	</record>
+	<record num="28">
+		<wort_fr>un vélo</wort_fr>
+		<wort_audio>31_2_un_velo.mp3</wort_audio>
+		<wort_de>ein Velo</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;ai un vélo.</satz_fr>
+		<satz_audio>31_2_Jai_un_velo.mp3</satz_audio>
+		<satz_de>Ich habe ein Velo.</satz_de>
+	</record>
+	<record num="29">
+		<wort_fr>un - deux - trois - quatre - cinq - six - sept - huit</wort_fr>
+		<wort_audio>31_2_un_deux_trois_quatre_cinq_six_sept_huit.mp3</wort_audio>
+		<wort_de>eins - zwei - drei - vier - fünf - sechs - sieben - acht</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;ai six cartes.</satz_fr>
+		<satz_audio>31_2_Jai_six_cartes.mp3</satz_audio>
+		<satz_de>Ich habe sechs Karten.</satz_de>
+	</record>
+	<record num="30">
+		<wort_fr>J&apos;aimerais un / une...</wort_fr>
+		<wort_audio>31_2_Jaimerais_un_une.mp3</wort_audio>
+		<wort_de>Ich hätte gern ...</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;aimerais une mandarine.</satz_fr>
+		<satz_audio>31_2_Jaimerais_une_mandarine.mp3</satz_audio>
+		<satz_de>Ich hätte gern eine Mandarine.</satz_de>
+	</record>
+	<record num="31">
+		<wort_fr>Voici un / une...</wort_fr>
+		<wort_audio>31_2_Voici_un_une.mp3</wort_audio>
+		<wort_de>Hier ist ...</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Voici un ballon.</satz_fr>
+		<satz_audio>31_2_Voici_un_ballon.mp3</satz_audio>
+		<satz_de>Hier ist ein Ball.</satz_de>
+	</record>
+	<record num="32">
+		<wort_fr>Tu as un / une... ?</wort_fr>
+		<wort_audio>31_2_Tu_as_un_une.mp3</wort_audio>
+		<wort_de>Hast du ... ?</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Tu as une photo?</satz_fr>
+		<satz_audio>31_2_Tu_as_une_photo.mp3</satz_audio>
+		<satz_de>Hast du ein Foto?</satz_de>
+	</record>
+	<record num="33">
+		<wort_fr>Non, désolé.</wort_fr>
+		<wort_audio>31_2_Non_desole.mp3</wort_audio>
+		<wort_de>Nein, tut mir leid.</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Désolé!</satz_fr>
+		<satz_audio>31_2_Desole.mp3</satz_audio>
+		<satz_de>Tut mir leid!</satz_de>
+	</record>
+	<record num="34">
+		<wort_fr>Non, pas de chance!</wort_fr>
+		<wort_audio>31_2_Non_pas_de_chance.mp3</wort_audio>
+		<wort_de>Nein, Pech gehabt!</wort_de>
+		<mag>3.1</mag>
+		<parc>2</parc>
+		<satz_fr>Désolé. Pas de chance!</satz_fr>
+		<satz_audio>31_2_DesolePas_de_chance.mp3</satz_audio>
+		<satz_de>Tut mir leid. Pech gehabt!</satz_de>
+	</record>
+	<record num="35">
+		<wort_fr>l&apos;âne</wort_fr>
+		<wort_audio>32_1_lane.mp3</wort_audio>
+		<wort_de>der Esel</wort_de>
+		<mag>3.2</mag>
+		<parc>1</parc>
+		<satz_fr>L&apos;âne fait «hi-han».</satz_fr>
+		<satz_audio>32_1_Lane_fait_hihan.mp3</satz_audio>
+		<satz_de>Der Esel macht "iah".</satz_de>
+	</record>
+	<record num="36">
+		<wort_fr>le gilet</wort_fr>
+		<wort_audio>32_1_le_gilet.mp3</wort_audio>
+		<wort_de>das Gilet</wort_de>
+		<mag>3.2</mag>
+		<parc>1</parc>
+		<satz_fr>J&apos;ai un gilet rouge.</satz_fr>
+		<satz_audio>32_1_Jai_un_gilet_rouge.mp3</satz_audio>
+		<satz_de>Ich habe ein rotes Gilet.</satz_de>
+	</record>
+	<record num="37">
+		<wort_fr>le moustique</wort_fr>
+		<wort_audio>32_1_le_moustique.mp3</wort_audio>
+		<wort_de>die Mücke</wort_de>
+		<mag>3.2</mag>
+		<parc>1</parc>
+		<satz_fr>Le moustique pique.</satz_fr>
+		<satz_audio>32_1_Le_moustique_pique.mp3</satz_audio>
+		<satz_de>Die Mücke sticht.</satz_de>
+	</record>
+	<record num="38">
+		<wort_fr>le pays</wort_fr>
+		<wort_audio>32_1_le_pays.mp3</wort_audio>
+		<wort_de>das Land</wort_de>
+		<mag>3.2</mag>
+		<parc>1</parc>
+		<satz_fr>La Suisse est un petit pays.</satz_fr>
+		<satz_audio>32_1_La_Suisse_est_un_petit_pays.mp3</satz_audio>
+		<satz_de>Die Schweiz ist ein kleines Land.</satz_de>
+	</record>
+	<record num="39">
+		<wort_fr>le roi</wort_fr>
+		<wort_audio>32_1_le_roi.mp3</wort_audio>
+		<wort_de>der König</wort_de>
+		<mag>3.2</mag>
+		<parc>1</parc>
+		<satz_fr>Le roi rit.</satz_fr>
+		<satz_audio>32_1_Le_roi_rit.mp3</satz_audio>
+		<satz_de>Der König lacht.</satz_de>
+	</record>
+	<record num="40">
+		<wort_fr>le xylophone</wort_fr>
+		<wort_audio>32_1_le_xylophone.mp3</wort_audio>
+		<wort_de>das Xylofon</wort_de>
+		<mag>3.2</mag>
+		<parc>1</parc>
+		<satz_fr>Xavier joue du xylophone.</satz_fr>
+		<satz_audio>32_1_Xavier_joue_du_xylophone.mp3</satz_audio>
+		<satz_de>Xavier spielt Xylofon.</satz_de>
+	</record>
+	<record num="41">
+		<wort_fr>Je m&apos;appelle...</wort_fr>
+		<wort_audio>32_2_Je_mappelle.mp3</wort_audio>
+		<wort_de>Ich heisse ...</wort_de>
+		<mag>3.2</mag>
+		<parc>2</parc>
+		<satz_fr>Je m&apos;appelle Louis.</satz_fr>
+		<satz_audio>32_2_Je_mappelle_Louis.mp3</satz_audio>
+		<satz_de>Ich heisse Louis.</satz_de>
+	</record>
+	<record num="42">
+		<wort_fr>J&apos;ai... ans.</wort_fr>
+		<wort_audio>32_2_Jai_ans.mp3</wort_audio>
+		<wort_de>Ich bin ... Jahre alt.</wort_de>
+		<mag>3.2</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;ai dix ans.</satz_fr>
+		<satz_audio>32_2_Jai_dix_ans.mp3</satz_audio>
+		<satz_de>Ich bin 10 Jahre alt.</satz_de>
+	</record>
+	<record num="43">
+		<wort_fr>Je parle français.</wort_fr>
+		<wort_audio>32_2_Je_parle_francais.mp3</wort_audio>
+		<wort_de>Ich spreche französisch.</wort_de>
+		<mag>3.2</mag>
+		<parc>2</parc>
+		<satz_fr>Je parle allemand.</satz_fr>
+		<satz_audio>32_2_Je_parle_allemand.mp3</satz_audio>
+		<satz_de>Ich spreche deutsch.</satz_de>
+	</record>
+	<record num="44">
+		<wort_fr>J&apos;habite...</wort_fr>
+		<wort_audio>32_2_Jhabite.mp3</wort_audio>
+		<wort_de>Ich wohne in ...</wort_de>
+		<mag>3.2</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;habite à Prez-vers-Noréaz.</satz_fr>
+		<satz_audio>32_2_Jhabite_a_Prez_vers_Noreaz.mp3</satz_audio>
+		<satz_de>Ich wohne in Prez-vers-Noréaz.</satz_de>
+	</record>
+	<record num="45">
+		<wort_fr>J&apos;aime...</wort_fr>
+		<wort_audio>32_2_Jaime.mp3</wort_audio>
+		<wort_de>Ich mag ...</wort_de>
+		<mag>3.2</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;aime les chiens.</satz_fr>
+		<satz_audio>32_2_Jaime_les_chiens.mp3</satz_audio>
+		<satz_de>Ich mag Hunde.</satz_de>
+	</record>
+	<record num="46">
+		<wort_fr>J&apos;aime moins...</wort_fr>
+		<wort_audio>32_2_Jaime_moins.mp3</wort_audio>
+		<wort_de>Ich mag ... weniger.</wort_de>
+		<mag>3.2</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;aime moins la salade.</satz_fr>
+		<satz_audio>32_2_Jaime_moins_la_salade.mp3</satz_audio>
+		<satz_de>Salat mag ich weniger.</satz_de>
+	</record>
+	<record num="47">
+		<wort_fr>le frère</wort_fr>
+		<wort_audio>32_2_le_frere.mp3</wort_audio>
+		<wort_de>der Bruder</wort_de>
+		<mag>3.2</mag>
+		<parc>2</parc>
+		<satz_fr>Jael a un frère.</satz_fr>
+		<satz_audio>32_2_Jael_a_un_frere.mp3</satz_audio>
+		<satz_de>Jael hat einen Bruder.</satz_de>
+	</record>
+	<record num="48">
+		<wort_fr>la sœur</wort_fr>
+		<wort_audio>32_2_la_soeur.mp3</wort_audio>
+		<wort_de>die Schwester</wort_de>
+		<mag>3.2</mag>
+		<parc>2</parc>
+		<satz_fr>Ma sœur s&apos;appelle Jael.</satz_fr>
+		<satz_audio>32_2_Ma_soeur_sappelle_Jael.mp3</satz_audio>
+		<satz_de>Meine Schwester heisst Jael.</satz_de>
+	</record>
+	<record num="49">
+		<wort_fr>le copain / la copine</wort_fr>
+		<wort_audio>32_2_le_copain_la_copine.mp3</wort_audio>
+		<wort_de>der Freund / die Freundin</wort_de>
+		<mag>3.2</mag>
+		<parc>2</parc>
+		<satz_fr>Mon copain parle français.</satz_fr>
+		<satz_audio>32_2_Mon_copain_parle_francais.mp3</satz_audio>
+		<satz_de>Mein Freund spricht französisch.</satz_de>
+	</record>
+	<record num="50">
+		<wort_fr>un classeur</wort_fr>
+		<wort_audio>33_1_un_classeur.mp3</wort_audio>
+		<wort_de>ein Ordner</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>Sur l&apos;étagère, il y a des classeurs.</satz_fr>
+		<satz_audio>33_1_Sur_letagere_il_y_a_des_classeurs.mp3</satz_audio>
+		<satz_de>Auf dem Büchergestell hat es Ordner.</satz_de>
+	</record>
+	<record num="51">
+		<wort_fr>un crayon</wort_fr>
+		<wort_audio>33_1_un_crayon.mp3</wort_audio>
+		<wort_de>ein Bleistift</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est un crayon.</satz_fr>
+		<satz_audio>33_1_Cest_un_crayon.mp3</satz_audio>
+		<satz_de>Das ist ein Bleistift.</satz_de>
+	</record>
+	<record num="52">
+		<wort_fr>un crayon de couleur</wort_fr>
+		<wort_audio>33_1_un_crayon_de_couleur.mp3</wort_audio>
+		<wort_de>ein Farbstift</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>Dans la trousse, il y a des crayons de couleur.</satz_fr>
+		<satz_audio>33_1_Dans_la_trousse_il_y_a_des_crayons_de_couleur.mp3</satz_audio>
+		<satz_de>Im Etui hat es Farbstifte.</satz_de>
+	</record>
+	<record num="53">
+		<wort_fr>un stylo</wort_fr>
+		<wort_audio>33_1_un_stylo.mp3</wort_audio>
+		<wort_de>ein Füller</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est un stylo.</satz_fr>
+		<satz_audio>33_1_Cest_un_stylo.mp3</satz_audio>
+		<satz_de>Das ist ein Füller.</satz_de>
+	</record>
+	<record num="54">
+		<wort_fr>une gomme</wort_fr>
+		<wort_audio>33_1_une_gomme.mp3</wort_audio>
+		<wort_de>ein Gummi</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est une gomme.</satz_fr>
+		<satz_audio>33_1_Cest_une_gomme.mp3</satz_audio>
+		<satz_de>Das ist ein Gummi.</satz_de>
+	</record>
+	<record num="55">
+		<wort_fr>un ordinateur</wort_fr>
+		<wort_audio>33_1_un_ordinateur.mp3</wort_audio>
+		<wort_de>ein Computer</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>Dans la bibliothèque, il y a trois ordinateurs.</satz_fr>
+		<satz_audio>33_1_Dans_la_bibliotheque_il_y_a_trois_ordinateurs.mp3</satz_audio>
+		<satz_de>In der Bibliothek hat es drei Computer.</satz_de>
+	</record>
+	<record num="56">
+		<wort_fr>une chaise</wort_fr>
+		<wort_audio>33_1_une_chaise.mp3</wort_audio>
+		<wort_de>ein Stuhl</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est une chaise.</satz_fr>
+		<satz_audio>33_1_Cest_une_chaise.mp3</satz_audio>
+		<satz_de>Das ist ein Stuhl.</satz_de>
+	</record>
+	<record num="57">
+		<wort_fr>Il va à l&apos;école.</wort_fr>
+		<wort_audio>33_1_Il_va_a_lecole.mp3</wort_audio>
+		<wort_de>Er geht zur Schule.</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>Il va à l&apos;école à pied.</satz_fr>
+		<satz_audio>33_1_Il_va_a_lecole_a_pied.mp3</satz_audio>
+		<satz_de>Er geht zu Fuss zur Schule.</satz_de>
+	</record>
+	<record num="58">
+		<wort_fr>Elle va à l&apos;école.</wort_fr>
+		<wort_audio>33_1_Elle_va_a_lecole.mp3</wort_audio>
+		<wort_de>Sie geht zur Schule.</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>Elle va à l&apos;école en bus.</satz_fr>
+		<satz_audio>33_1_Elle_va_a_lecole_en_bus.mp3</satz_audio>
+		<satz_de>Sie geht mit dem Bus zur Schule.</satz_de>
+	</record>
+	<record num="59">
+		<wort_fr>le monde</wort_fr>
+		<wort_audio>33_1_le_monde.mp3</wort_audio>
+		<wort_de>die Welt</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>Regarde les continents sur la carte du monde.</satz_fr>
+		<satz_audio>33_1_Regarde_les_continents_sur_la_carte_du_monde.mp3</satz_audio>
+		<satz_de>Schau die Kontinente auf der Weltkarte an.</satz_de>
+	</record>
+	<record num="60">
+		<wort_fr>un continent</wort_fr>
+		<wort_audio>33_1_un_continent.mp3</wort_audio>
+		<wort_de>ein Kontinent</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>L&apos;Europe est un continent.</satz_fr>
+		<satz_audio>33_1_LEurope_est_un_continent.mp3</satz_audio>
+		<satz_de>Europa ist ein Kontinent.</satz_de>
+	</record>
+	<record num="61">
+		<wort_fr>C&apos;est un / une...</wort_fr>
+		<wort_audio>33_1_Cest_un_une.mp3</wort_audio>
+		<wort_de>Das ist ...</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est un taille-crayon.</satz_fr>
+		<satz_audio>33_1_Cest_un_taille_crayon.mp3</satz_audio>
+		<satz_de>Das ist ein Spitzer.</satz_de>
+	</record>
+	<record num="62">
+		<wort_fr>Je vois un / une / des...</wort_fr>
+		<wort_audio>33_1_Je_vois_un_une_des.mp3</wort_audio>
+		<wort_de>Ich sehe ...</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>Je vois l&apos;école.</satz_fr>
+		<satz_audio>33_1_Je_vois_lecole.mp3</satz_audio>
+		<satz_de>Ich sehe die Schule.</satz_de>
+	</record>
+	<record num="63">
+		<wort_fr>C&apos;est peut-être un / une...</wort_fr>
+		<wort_audio>33_1_Cest_peutetre_un_une.mp3</wort_audio>
+		<wort_de>Das ist vielleicht ...</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>«Un classeur», c&apos;est peut-être «ein Ordner».</satz_fr>
+		<satz_audio>33_1_Un_classeur_cest_peut_etre_ein_Ordner.mp3</satz_audio>
+		<satz_de>"Un classeur", das ist vielleicht "ein Ordner".</satz_de>
+	</record>
+	<record num="64">
+		<wort_fr>Dans la classe, il y a un / une / des...</wort_fr>
+		<wort_audio>33_1_Dans_la_classe_il_y_a_un_une_des.mp3</wort_audio>
+		<wort_de>Im Klassenzimmer hat es ...</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>Dans la classe, il y a douze élèves..</satz_fr>
+		<satz_audio>33_1_Dans_la_classe_il_y_douze_eleves.mp3</satz_audio>
+		<satz_de>In der Klasse hat es zwölf Schüler.</satz_de>
+	</record>
+	<record num="65">
+		<wort_fr>Regarde. Regardez.</wort_fr>
+		<wort_audio>33_1_Regarde_Regardez.mp3</wort_audio>
+		<wort_de>Schau! Schaut!</wort_de>
+		<mag>3.3</mag>
+		<parc>1</parc>
+		<satz_fr>Regarde l&apos;affiche.</satz_fr>
+		<satz_audio>33_1_Regarde_laffiche.mp3</satz_audio>
+		<satz_de>Schau das Plakat an.</satz_de>
+	</record>
+	<record num="66">
+		<wort_fr>lundi - mardi - mercredi - jeudi - vendredi - samedi - dimanche</wort_fr>
+		<wort_audio>33_2_lundi_mardi_mercredi_jeudi_vendredi_samedi_dimanche.mp3</wort_audio>
+		<wort_de>Montag - Dienstag - Mittwoch - Donnerstag - Freitag - Samstag - Sonntag</wort_de>
+		<mag>3.3</mag>
+		<parc>2</parc>
+		<satz_fr>Aujourd&apos;hui, c&apos;est vendredi.</satz_fr>
+		<satz_audio>33_2_Aujourdhui_cest_vendredi.mp3</satz_audio>
+		<satz_de>Heute ist Freitag.</satz_de>
+	</record>
+	<record num="67">
+		<wort_fr>Il aime...</wort_fr>
+		<wort_audio>33_2_Il_aime.mp3</wort_audio>
+		<wort_de>Er mag ...</wort_de>
+		<mag>3.3</mag>
+		<parc>2</parc>
+		<satz_fr>Il aime le chocolat.</satz_fr>
+		<satz_audio>33_2_Il_aime_le_chocolat.mp3</satz_audio>
+		<satz_de>Er mag Schokolade.</satz_de>
+	</record>
+	<record num="68">
+		<wort_fr>Il n&apos;aime pas...</wort_fr>
+		<wort_audio>33_2_Il_naime_pas.mp3</wort_audio>
+		<wort_de>Er mag ... nicht.</wort_de>
+		<mag>3.3</mag>
+		<parc>2</parc>
+		<satz_fr>Il n&apos;aime pas les soustractions.</satz_fr>
+		<satz_audio>33_2_Il_naime_pas_les_soustractions.mp3</satz_audio>
+		<satz_de>Er mag die Subtraktionen nicht.</satz_de>
+	</record>
+	<record num="69">
+		<wort_fr>Il adore...</wort_fr>
+		<wort_audio>33_2_Il_adore.mp3</wort_audio>
+		<wort_de>Er mag ... furchtbar gern.</wort_de>
+		<mag>3.3</mag>
+		<parc>2</parc>
+		<satz_fr>Il adore le foot.</satz_fr>
+		<satz_audio>33_2_Il_adore_le_foot.mp3</satz_audio>
+		<satz_de>Er mag sehr gerne Fussball.</satz_de>
+	</record>
+	<record num="70">
+		<wort_fr>Il sait...</wort_fr>
+		<wort_audio>33_2_Il_sait.mp3</wort_audio>
+		<wort_de>Er kann ...</wort_de>
+		<mag>3.3</mag>
+		<parc>2</parc>
+		<satz_fr>Il sait compter.</satz_fr>
+		<satz_audio>33_2_Il_sait_compter.mp3</satz_audio>
+		<satz_de>Er kann zählen.</satz_de>
+	</record>
+	<record num="71">
+		<wort_fr>Elle a un / une...</wort_fr>
+		<wort_audio>33_2_Elle_a_un_une.mp3</wort_audio>
+		<wort_de>Sie hat ...</wort_de>
+		<mag>3.3</mag>
+		<parc>2</parc>
+		<satz_fr>Elle a une tortue.</satz_fr>
+		<satz_audio>33_2_Elle_a_une_tortue.mp3</satz_audio>
+		<satz_de>Sie hat eine Schildkröte.</satz_de>
+	</record>
+	<record num="72">
+		<wort_fr>Elle est...</wort_fr>
+		<wort_audio>33_2_Elle_est.mp3</wort_audio>
+		<wort_de>Sie ist ...</wort_de>
+		<mag>3.3</mag>
+		<parc>2</parc>
+		<satz_fr>Elle est intelligente.</satz_fr>
+		<satz_audio>33_2_Elle_est_intelligente.mp3</satz_audio>
+		<satz_de>Sie ist intelligent.</satz_de>
+	</record>
+	<record num="73">
+		<wort_fr>Elle fait...</wort_fr>
+		<wort_audio>33_2_Elle_fait.mp3</wort_audio>
+		<wort_de>Sie macht ...</wort_de>
+		<mag>3.3</mag>
+		<parc>2</parc>
+		<satz_fr>Elle fait du sport.</satz_fr>
+		<satz_audio>33_2_Elle_fait_du_sport.mp3</satz_audio>
+		<satz_de>Sie macht Sport.</satz_de>
+	</record>
+	<record num="74">
+		<wort_fr>la sauterelle</wort_fr>
+		<wort_audio>41_1_la_sauterelle.mp3</wort_audio>
+		<wort_de>die Heuschrecke</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>La sauterelle a la couleur de l&apos;herbe.</satz_fr>
+		<satz_audio>41_1_La_sauterelle_a_la_couleur_de_lherbe.mp3</satz_audio>
+		<satz_de>Die Heuschrecke hat die Farbe des Grases.</satz_de>
+	</record>
+	<record num="75">
+		<wort_fr>le renard</wort_fr>
+		<wort_audio>41_1_le_renard.mp3</wort_audio>
+		<wort_de>der Fuchs</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Le renard est marron.</satz_fr>
+		<satz_audio>41_1_Le_renard_est_marron.mp3</satz_audio>
+		<satz_de>Der Fuchs ist braun.</satz_de>
+	</record>
+	<record num="76">
+		<wort_fr>le caméléon</wort_fr>
+		<wort_audio>41_1_le_cameleon.mp3</wort_audio>
+		<wort_de>das Chamäleon</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Le caméléon change de couleur.</satz_fr>
+		<satz_audio>41_1_Le_cameleon_change_de_couleur.mp3</satz_audio>
+		<satz_de>Das Chamäleon wechselt die Farbe.</satz_de>
+	</record>
+	<record num="77">
+		<wort_fr>le chimpanzé</wort_fr>
+		<wort_audio>41_1_le_chimpanze.mp3</wort_audio>
+		<wort_de>der Schimpanse</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Le chimpanzé est un animal intelligent.</satz_fr>
+		<satz_audio>41_1_Le_chimpanze_est_un_animal_intelligent.mp3</satz_audio>
+		<satz_de>Der Schimpanse ist ein intelligentes Tier.</satz_de>
+	</record>
+	<record num="78">
+		<wort_fr>le dauphin</wort_fr>
+		<wort_audio>41_1_le_dauphin.mp3</wort_audio>
+		<wort_de>der Delfin</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Le dauphin nage.</satz_fr>
+		<satz_audio>41_1_Le_dauphin_nage.mp3</satz_audio>
+		<satz_de>Der Delfin schwimmt.</satz_de>
+	</record>
+	<record num="79">
+		<wort_fr>la tortue</wort_fr>
+		<wort_audio>41_1_la_tortue.mp3</wort_audio>
+		<wort_de>die Schildkröte</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Une tortue de mer passe.</satz_fr>
+		<satz_audio>41_1_Une_tortue_de_mer_passe.mp3</satz_audio>
+		<satz_de>Eine Meeresschildkröte schwimmt vorbei.</satz_de>
+	</record>
+	<record num="80">
+		<wort_fr>Cet animal utilise un / une...</wort_fr>
+		<wort_audio>41_1_Cet_animal_utilise_un_une.mp3</wort_audio>
+		<wort_de>Dieses Tier benutzt einen / eine / ein ...</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Cet animal utilise une éponge.</satz_fr>
+		<satz_audio>41_1_Cet_animal_utilise_une_eponge.mp3</satz_audio>
+		<satz_de>Dieses Tier benutzt einen Schwamm.</satz_de>
+	</record>
+	<record num="81">
+		<wort_fr>Cet animal est...</wort_fr>
+		<wort_audio>41_1_Cet_animal_est.mp3</wort_audio>
+		<wort_de>Dieses Tier ist ...</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Cet animal est blanc.</satz_fr>
+		<satz_audio>41_1_Cet_animal_est_blanc.mp3</satz_audio>
+		<satz_de>Dieses Tier ist weiss.</satz_de>
+	</record>
+	<record num="82">
+		<wort_fr>gris</wort_fr>
+		<wort_audio>41_1_gris.mp3</wort_audio>
+		<wort_de>grau</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>L&apos;éléphant est gris.</satz_fr>
+		<satz_audio>41_1_Lelephant_est_gris.mp3</satz_audio>
+		<satz_de>Der Elefant ist grau.</satz_de>
+	</record>
+	<record num="83">
+		<wort_fr>vert</wort_fr>
+		<wort_audio>41_1_vert.mp3</wort_audio>
+		<wort_de>grün</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>La sauterelle est verte.</satz_fr>
+		<satz_audio>41_1_La_sauterelle_est_verte.mp3</satz_audio>
+		<satz_de>Die Heuschrecke ist grün.</satz_de>
+	</record>
+	<record num="84">
+		<wort_fr>blanc</wort_fr>
+		<wort_audio>41_1_blanc.mp3</wort_audio>
+		<wort_de>weiss</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Certains rennes sont blancs.</satz_fr>
+		<satz_audio>41_1_Certains_rennes_sont_blancs.mp3</satz_audio>
+		<satz_de>Gewisse Rentiere sind weiss.</satz_de>
+	</record>
+	<record num="85">
+		<wort_fr>marron</wort_fr>
+		<wort_audio>41_1_marron.mp3</wort_audio>
+		<wort_de>(marroni-)braun</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Le renard polaire est marron en été.</satz_fr>
+		<satz_audio>41_1_Le_renard_polaire_est_marron_en_ete.mp3</satz_audio>
+		<satz_de>Der Polarfuchs ist im Sommer braun.</satz_de>
+	</record>
+	<record num="86">
+		<wort_fr>une éponge</wort_fr>
+		<wort_audio>41_1_une_eponge.mp3</wort_audio>
+		<wort_de>ein Schwamm</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Où est l&apos;éponge?</satz_fr>
+		<satz_audio>41_1_Ou_est_leponge.mp3</satz_audio>
+		<satz_de>Wo ist der Schwamm?</satz_de>
+	</record>
+	<record num="87">
+		<wort_fr>La machine sert à...</wort_fr>
+		<wort_audio>41_2_La_machine_sert_a.mp3</wort_audio>
+		<wort_de>Die Maschine dient dazu ...</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>La machine sert à ranger la chambre.</satz_fr>
+		<satz_audio>41_2_La_machine_sert_a_ranger_la_chambre.mp3</satz_audio>
+		<satz_de>Die Maschine dient dazu, das Zimmer aufzuräumen.</satz_de>
+	</record>
+	<record num="88">
+		<wort_fr>La machine fonctionne à la / au / avec...</wort_fr>
+		<wort_audio>41_2_La_machine_fonctionne_a_la_au_avec.mp3</wort_audio>
+		<wort_de>Die Maschine funktioniert mit ...</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>La machine fonctionne au réacteur.</satz_fr>
+		<satz_audio>41_2_La_machine_fonctionne_au_reacteur.mp3</satz_audio>
+		<satz_de>Die Maschine funktioniert mit einem Reaktor.</satz_de>
+	</record>
+	<record num="89">
+		<wort_fr>Il faut...</wort_fr>
+		<wort_audio>41_2_Il_faut.mp3</wort_audio>
+		<wort_de>Man muss ...</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>Il faut appuyer sur le bouton.</satz_fr>
+		<satz_audio>41_2_Il_faut_appuyer_sur_le_bouton.mp3</satz_audio>
+		<satz_de>Man muss auf den Knopf drücken.</satz_de>
+	</record>
+	<record num="90">
+		<wort_fr>appuyer sur...</wort_fr>
+		<wort_audio>41_2_appuyer_sur.mp3</wort_audio>
+		<wort_de>drücken auf ...</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>Il faut appuyer sur ON.</satz_fr>
+		<satz_audio>41_2_Il_faut_appuyer_sur_ON.mp3</satz_audio>
+		<satz_de>Man muss auf ON drücken.</satz_de>
+	</record>
+	<record num="91">
+		<wort_fr>mettre</wort_fr>
+		<wort_audio>41_2_mettre.mp3</wort_audio>
+		<wort_de>legen, stellen</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>Elle met le linge dans le panier.</satz_fr>
+		<satz_audio>41_2_Elle_met_le_linge_dans_le_panier.mp3</satz_audio>
+		<satz_de>Sie legt die Wäsche in den Korb.</satz_de>
+	</record>
+	<record num="92">
+		<wort_fr>ranger</wort_fr>
+		<wort_audio>41_2_ranger.mp3</wort_audio>
+		<wort_de>aufräumen</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>Je n&apos;aime pas ranger ma chambre.</satz_fr>
+		<satz_audio>41_2_Je_naime_pas_ranger_ma_chambre.mp3</satz_audio>
+		<satz_de>Ich räume mein Zimmer nicht gern auf.</satz_de>
+	</record>
+	<record num="93">
+		<wort_fr>voir</wort_fr>
+		<wort_audio>41_2_voir.mp3</wort_audio>
+		<wort_de>sehen</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>La machine permet de voir des images.</satz_fr>
+		<satz_audio>41_2_La_machine_permet_de_voir_des_images.mp3</satz_audio>
+		<satz_de>Die Maschine ermöglicht es, Bilder zu sehen.</satz_de>
+	</record>
+	<record num="94">
+		<wort_fr>faire les devoirs</wort_fr>
+		<wort_audio>41_2_faire_les_devoirs.mp3</wort_audio>
+		<wort_de>die Hausaufgaben machen</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>A la maison, il faut faire les devoirs.</satz_fr>
+		<satz_audio>41_2_A_la_maison_il_faut_faire_les_devoirs.mp3</satz_audio>
+		<satz_de>Zuhause muss man die Hausaufgaben machen.</satz_de>
+	</record>
+	<record num="95">
+		<wort_fr>la chaleur</wort_fr>
+		<wort_audio>41_2_la_chaleur.mp3</wort_audio>
+		<wort_de>die Wärme</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>La machine fonctionne à la chaleur.</satz_fr>
+		<satz_audio>41_2_La_machine_fonctionne_a_la_chaleur.mp3</satz_audio>
+		<satz_de>Die Maschine funktioniert mit Wärme.</satz_de>
+	</record>
+	<record num="96">
+		<wort_fr>la batterie</wort_fr>
+		<wort_audio>41_2_la_batterie.mp3</wort_audio>
+		<wort_de>die Batterie</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>Le casque fonctionne à la batterie.</satz_fr>
+		<satz_audio>41_2_Le_casque_fonctionne_a_la_batterie.mp3</satz_audio>
+		<satz_de>Der Helm funktioniert mit einer Batterie.</satz_de>
+	</record>
+	<record num="97">
+		<wort_fr>la chambre</wort_fr>
+		<wort_audio>41_2_la_chambre.mp3</wort_audio>
+		<wort_de>das Zimmer</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>Cette machine sert à ranger la chambre.</satz_fr>
+		<satz_audio>41_2_Cette_machine_sert_a_ranger_la_chambre.mp3</satz_audio>
+		<satz_de>Diese Maschine dient dazu, das Zimmer aufzuräumen.</satz_de>
+	</record>
+	<record num="98">
+		<wort_fr>le casque</wort_fr>
+		<wort_audio>41_2_le_casque.mp3</wort_audio>
+		<wort_de>der Helm</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;ai un casque à vélo.</satz_fr>
+		<satz_audio>41_2_Jai_un_casque_a_velo.mp3</satz_audio>
+		<satz_de>Ich habe einen Velohelm.</satz_de>
+	</record>
+	<record num="99">
+		<wort_fr>le bouton</wort_fr>
+		<wort_audio>41_2_le_bouton.mp3</wort_audio>
+		<wort_de>der Knopf</wort_de>
+		<mag>4.1</mag>
+		<parc>2</parc>
+		<satz_fr>Le jean a un bouton.</satz_fr>
+		<satz_audio>41_2_Le_jean_a_un_bouton.mp3</satz_audio>
+		<satz_de>Die Jeans hat einen Knopf.</satz_de>
+	</record>
+	<record num="100">
+		<wort_fr>Ma passion, c&apos;est...</wort_fr>
+		<wort_audio>42_1_Ma_passion_cest.mp3</wort_audio>
+		<wort_de>Meine Passion ist ...</wort_de>
+		<mag>4.2</mag>
+		<parc>1</parc>
+		<satz_fr>Ma passion, c&apos;est le foot.</satz_fr>
+		<satz_audio>42_1_Ma_passion_cest_le_foot.mp3</satz_audio>
+		<satz_de>Meine Passion ist Fussball.</satz_de>
+	</record>
+	<record num="101">
+		<wort_fr>Je m&apos;entraîne...</wort_fr>
+		<wort_audio>42_1_Je_mentraine.mp3</wort_audio>
+		<wort_de>Ich trainiere ...</wort_de>
+		<mag>4.2</mag>
+		<parc>1</parc>
+		<satz_fr>Je m&apos;entraîne à faire des figures acrobatiques.</satz_fr>
+		<satz_audio>42_1_Je_mentraine_a_faire_des_figures_acrobatiques.mp3</satz_audio>
+		<satz_de>Ich trainiere, akrobatische Figuren zu machen.</satz_de>
+	</record>
+	<record num="102">
+		<wort_fr>J&apos;ai besoin de...</wort_fr>
+		<wort_audio>42_1_Jai_besoin_de.mp3</wort_audio>
+		<wort_de>Ich brauche ...</wort_de>
+		<mag>4.2</mag>
+		<parc>1</parc>
+		<satz_fr>J&apos;ai besoin d&apos;un casque.</satz_fr>
+		<satz_audio>42_1_Jai_besoin_dun_casque.mp3</satz_audio>
+		<satz_de>Ich brauche einen Helm.</satz_de>
+	</record>
+	<record num="103">
+		<wort_fr>On fabrique...</wort_fr>
+		<wort_audio>42_1_On_fabrique.mp3</wort_audio>
+		<wort_de>Wir stellen ... her.</wort_de>
+		<mag>4.2</mag>
+		<parc>1</parc>
+		<satz_fr>On fabrique une caisse à savon.</satz_fr>
+		<satz_audio>42_1_On_fabrique_une_caisse_a_savon.mp3</satz_audio>
+		<satz_de>Wir stellen eine Seifenkiste her.</satz_de>
+	</record>
+	<record num="104">
+		<wort_fr>Parfois, on...</wort_fr>
+		<wort_audio>42_1_Parfois_on.mp3</wort_audio>
+		<wort_de>Manchmal ... wir.</wort_de>
+		<mag>4.2</mag>
+		<parc>1</parc>
+		<satz_fr>Parfois on pilote, parfois on pousse.</satz_fr>
+		<satz_audio>42_1_Parfois_on_pilote_parfois_on_pousse.mp3</satz_audio>
+		<satz_de>Manchmal fahren wir, manchmal schieben wir.</satz_de>
+	</record>
+	<record num="105">
+		<wort_fr>une grotte</wort_fr>
+		<wort_audio>42_1_une_grotte.mp3</wort_audio>
+		<wort_de>eine Höhle</wort_de>
+		<mag>4.2</mag>
+		<parc>1</parc>
+		<satz_fr>Elle explore des grottes.</satz_fr>
+		<satz_audio>42_1_Elle_explore_des_grottes.mp3</satz_audio>
+		<satz_de>Sie erforscht Höhlen.</satz_de>
+	</record>
+	<record num="106">
+		<wort_fr>un mouvement</wort_fr>
+		<wort_audio>42_1_un_mouvement.mp3</wort_audio>
+		<wort_de>eine Bewegung</wort_de>
+		<mag>4.2</mag>
+		<parc>1</parc>
+		<satz_fr>A la voltige, on fait de jolis mouvements.</satz_fr>
+		<satz_audio>42_1_A_la_voltige_on_fait_de_jolis_mouvements.mp3</satz_audio>
+		<satz_de>Beim Voltigieren macht man schöne Bewegungen.</satz_de>
+	</record>
+	<record num="107">
+		<wort_fr>un engin</wort_fr>
+		<wort_audio>42_1_un_engin.mp3</wort_audio>
+		<wort_de>ein Gerät</wort_de>
+		<mag>4.2</mag>
+		<parc>1</parc>
+		<satz_fr>Il fabrique un engin pour rouler.</satz_fr>
+		<satz_audio>42_1_Il_fabrique_un_engin_pour_rouler.mp3</satz_audio>
+		<satz_de>Er stellt ein Gerät her, mit dem man rollen kann.</satz_de>
+	</record>
+	<record num="108">
+		<wort_fr>l&apos;équipe</wort_fr>
+		<wort_audio>42_1_lequipe.mp3</wort_audio>
+		<wort_de>die Mannschaft</wort_de>
+		<mag>4.2</mag>
+		<parc>1</parc>
+		<satz_fr>Voici mon équipe.</satz_fr>
+		<satz_audio>42_1_Voici_mon_equipe.mp3</satz_audio>
+		<satz_de>Hier ist meine Mannschaft.</satz_de>
+	</record>
+	<record num="109">
+		<wort_fr>une course</wort_fr>
+		<wort_audio>42_1_une_course.mp3</wort_audio>
+		<wort_de>ein Rennen, ein Lauf</wort_de>
+		<mag>4.2</mag>
+		<parc>1</parc>
+		<satz_fr>On gagne une course.</satz_fr>
+		<satz_audio>42_1_On_gagne_une_course.mp3</satz_audio>
+		<satz_de>Wir gewinnen ein Rennen.</satz_de>
+	</record>
+	<record num="110">
+		<wort_fr>Elle tombe.</wort_fr>
+		<wort_audio>42_2_Elle_tombe.mp3</wort_audio>
+		<wort_de>Sie fällt um.</wort_de>
+		<mag>4.2</mag>
+		<parc>2</parc>
+		<satz_fr>Elle tombe souvent.</satz_fr>
+		<satz_audio>42_2_Elle_tombe_souvent.mp3</satz_audio>
+		<satz_de>Sie fällt oft um.</satz_de>
+	</record>
+	<record num="111">
+		<wort_fr>Elle monte sur...</wort_fr>
+		<wort_audio>42_2_Elle_monte_sur.mp3</wort_audio>
+		<wort_de>Sie steigt auf ...</wort_de>
+		<mag>4.2</mag>
+		<parc>2</parc>
+		<satz_fr>Elle monte sur la première marche du podium.</satz_fr>
+		<satz_audio>42_2_Elle_monte_sur_la_premiere_marche_du_podium.mp3</satz_audio>
+		<satz_de>Sie steigt auf die erste Stufe des Podiums.</satz_de>
+	</record>
+	<record num="112">
+		<wort_fr>Elle s&apos;inscrit à la / au...</wort_fr>
+		<wort_audio>42_2_Elle_sinscrit_a_la_au.mp3</wort_audio>
+		<wort_de>Sie schreibt sich für ... ein.</wort_de>
+		<mag>4.2</mag>
+		<parc>2</parc>
+		<satz_fr>Elle s&apos;inscrit à la course.</satz_fr>
+		<satz_audio>42_2_Elle_sinscrit_a_la_course.mp3</satz_audio>
+		<satz_de>Sie meldet sich zum Rennen an.</satz_de>
+	</record>
+	<record num="113">
+		<wort_fr>Elle se rend à la / au...</wort_fr>
+		<wort_audio>42_2_Elle_se_rend_a_la_au.mp3</wort_audio>
+		<wort_de>Sie begibt sich ...</wort_de>
+		<mag>4.2</mag>
+		<parc>2</parc>
+		<satz_fr>Elle se rend à l&apos;école en tram.</satz_fr>
+		<satz_audio>42_2_Elle_se_rend_a_lecole_en_tram.mp3</satz_audio>
+		<satz_de>Sie begibt sich mit dem Tram zur Schule.</satz_de>
+	</record>
+	<record num="114">
+		<wort_fr>Elle rêve de devenir...</wort_fr>
+		<wort_audio>42_2_Elle_reve_de_devenir.mp3</wort_audio>
+		<wort_de>Sie träumt, ... zu werden.</wort_de>
+		<mag>4.2</mag>
+		<parc>2</parc>
+		<satz_fr>Elle rêve de devenir cycliste.</satz_fr>
+		<satz_audio>42_2_Elle_reve_de_devenir_cycliste.mp3</satz_audio>
+		<satz_de>Sie träumt davon, eine Radrennfahrerin zu werden.</satz_de>
+	</record>
+	<record num="115">
+		<wort_fr>Elle reçoit un / une...</wort_fr>
+		<wort_audio>42_2_Elle_recoit_un_une.mp3</wort_audio>
+		<wort_de>Sie erhält ...</wort_de>
+		<mag>4.2</mag>
+		<parc>2</parc>
+		<satz_fr>Elle reçoit une médaille d&apos;or.</satz_fr>
+		<satz_audio>42_2_Elle_recoit_une_medaille_dor.mp3</satz_audio>
+		<satz_de>Sie bekommt eine Goldmedaille.</satz_de>
+	</record>
+	<record num="116">
+		<wort_fr>Elle rentre.</wort_fr>
+		<wort_audio>42_2_Elle_rentre.mp3</wort_audio>
+		<wort_de>Sie kehrt zurück.</wort_de>
+		<mag>4.2</mag>
+
+		<parc>2</parc>
+		<satz_fr>Elle rentre au village.</satz_fr>
+		<satz_audio>42_2_Elle_rentre_au_village.mp3</satz_audio>
+		<satz_de>Sie kehrt ins Dorf zurück.</satz_de>
+	</record>
+	<record num="117">
+		<wort_fr>Elle traverse le / la...</wort_fr>
+		<wort_audio>42_2_Elle_traverse_le_la.mp3</wort_audio>
+		<wort_de>Sie überquert ...</wort_de>
+		<mag>4.2</mag>
+		<parc>2</parc>
+		<satz_fr>Elle traverse le village.</satz_fr>
+		<satz_audio>42_2_Elle_traverse_le_village.mp3</satz_audio>
+		<satz_de>Sie durchquert das Dorf.</satz_de>
+	</record>
+	<record num="118">
+		<wort_fr>Elle prend le / la...</wort_fr>
+		<wort_audio>42_2_Elle_prend_le_la.mp3</wort_audio>
+		<wort_de>Sie nimmt ...</wort_de>
+		<mag>4.2</mag>
+		<parc>2</parc>
+		<satz_fr>Elle prend le taxi.</satz_fr>
+		<satz_audio>42_2_Elle_prend_le_taxi.mp3</satz_audio>
+		<satz_de>Sie nimmt das Taxi.</satz_de>
+	</record>
+	<record num="119">
+		<wort_fr>Elle fait...</wort_fr>
+		<wort_audio>42_2_Elle_fait.mp3</wort_audio>
+		<wort_de>Sie macht ...</wort_de>
+		<mag>4.2</mag>
+		<parc>2</parc>
+		<satz_fr>Elle fait une figure acrobatique.</satz_fr>
+		<satz_audio>42_2_Elle_fait_une_figure_acrobatique.mp3</satz_audio>
+		<satz_de>Sie macht eine akrobatische Figur.</satz_de>
+	</record>
+	<record num="120">
+		<wort_fr>C&apos;est parti!</wort_fr>
+		<wort_audio>42_2_Cest_parti.mp3</wort_audio>
+		<wort_de>Los geht&apos;s!</wort_de>
+		<mag>4.2</mag>
+		<parc>2</parc>
+		<satz_fr>Allez hop! C&apos;est parti!</satz_fr>
+		<satz_audio>42_2_Allez_hop_Cest_parti.mp3</satz_audio>
+		<satz_de>Hop hop hop! Los geht&apos;s!</satz_de>
+	</record>
+	<record num="121">
+		<wort_fr>C&apos;est très drôle.</wort_fr>
+		<wort_audio>43_1_Cest_tres_drole.mp3</wort_audio>
+		<wort_de>Das ist sehr lustig.</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>Ah! C&apos;est très drôle!</satz_fr>
+		<satz_audio>43_1_Ah_Cest_tres_drole.mp3</satz_audio>
+		<satz_de>Ah! Das ist sehr lustig.</satz_de>
+	</record>
+	<record num="122">
+		<wort_fr>Vraiment!</wort_fr>
+		<wort_audio>43_1_Vraiment.mp3</wort_audio>
+		<wort_de>Tatsächlich!</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est très drôle. Vraiment!</satz_fr>
+		<satz_audio>43_1_Cest_tres_drole_Vraiment.mp3</satz_audio>
+		<satz_de>Das ist sehr lustig. Tatsächlich!</satz_de>
+	</record>
+	<record num="123">
+		<wort_fr>Ça suffit!</wort_fr>
+		<wort_audio>43_1_ca_suffit.mp3</wort_audio>
+		<wort_de>Jetzt reicht&apos;s!</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>Ah non! Ça suffit!</satz_fr>
+		<satz_audio>43_1_Ah_Non_Ca_suffit.mp3</satz_audio>
+		<satz_de>Ach nein! Jetzt reicht&apos;s!</satz_de>
+	</record>
+	<record num="124">
+		<wort_fr>En Europe, on trouve...</wort_fr>
+		<wort_audio>43_1_En_Europe_on_trouve.mp3</wort_audio>
+		<wort_de>In Europa findet man ...</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>En Europe, on trouve l&apos;Espagne, l&apos;Allemagne ...</satz_fr>
+		<satz_audio>43_1_En_Europe_on_trouve_lEspagne_lAllemagne.mp3</satz_audio>
+		<satz_de>In Europa befinden sich Spanien, Deutschland ...</satz_de>
+	</record>
+	<record num="125">
+		<wort_fr>l&apos;Italie</wort_fr>
+		<wort_audio>43_1_lItalie.mp3</wort_audio>
+		<wort_de>Italien</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>En Europe, on trouve l&apos;Italie.</satz_fr>
+		<satz_audio>43_1_En_Europe_on_trouve_lItalie.mp3</satz_audio>
+		<satz_de>Italien befindet sich in Europa.</satz_de>
+	</record>
+	<record num="126">
+		<wort_fr>la France</wort_fr>
+		<wort_audio>43_1_la_France.mp3</wort_audio>
+		<wort_de>Frankreich</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>En France, on parle français.</satz_fr>
+		<satz_audio>43_1_En_France_on_parle_francais.mp3</satz_audio>
+		<satz_de>In Frankreich spricht man französisch.</satz_de>
+	</record>
+	<record num="127">
+		<wort_fr>l&apos;Autriche</wort_fr>
+		<wort_audio>43_1_lAutriche.mp3</wort_audio>
+		<wort_de>Österreich</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>L&apos;Autriche est un pays.</satz_fr>
+		<satz_audio>43_1_LAutriche_est_une_pays.mp3</satz_audio>
+		<satz_de>Österreich ist ein Land.</satz_de>
+	</record>
+	<record num="128">
+		<wort_fr>l&apos;Allemagne</wort_fr>
+		<wort_audio>43_1_lAllemagne.mp3</wort_audio>
+		<wort_de>Deutschland</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>En Allemagne, on parle allemand.</satz_fr>
+		<satz_audio>43_1_En_Allemagne_on_parle_allemand.mp3</satz_audio>
+		<satz_de>In Deutschland spricht man deutsch.</satz_de>
+	</record>
+	<record num="129">
+		<wort_fr>la Grande-Bretagne</wort_fr>
+		<wort_audio>43_1_la_Grande_Bretagne.mp3</wort_audio>
+		<wort_de>Grossbritannien</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>En Europe, on trouve la Grande-Bretagne.</satz_fr>
+		<satz_audio>43_1_En_Europe_on_trouve_la_Grande_Bretagne.mp3</satz_audio>
+		<satz_de>Grossbritannien befindet sich in Europa.</satz_de>
+	</record>
+	<record num="130">
+		<wort_fr>un escargot</wort_fr>
+		<wort_audio>43_1_un_escargot.mp3</wort_audio>
+		<wort_de>eine Schnecke</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>Voici un escargot.</satz_fr>
+		<satz_audio>43_1_Voici_un_escargot.mp3</satz_audio>
+		<satz_de>Hier ist eine Schnecke.</satz_de>
+	</record>
+	<record num="131">
+		<wort_fr>une coccinelle</wort_fr>
+		<wort_audio>43_1_une_coccinelle.mp3</wort_audio>
+		<wort_de>ein Marienkäfer</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>Regarde, une coccinelle!</satz_fr>
+		<satz_audio>43_1_Regarde_une_coccinelle.mp3</satz_audio>
+		<satz_de>Schau, ein Marienkäfer!</satz_de>
+	</record>
+	<record num="132">
+		<wort_fr>une araignée</wort_fr>
+		<wort_audio>43_1_une_araignee.mp3</wort_audio>
+		<wort_de>eine Spinne</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>J&apos;aime moins les araignées.</satz_fr>
+		<satz_audio>43_1_Jaime_moins_les_araignees.mp3</satz_audio>
+		<satz_de>Ich mag Spinnen weniger gerne.</satz_de>
+	</record>
+	<record num="133">
+		<wort_fr>un rat</wort_fr>
+		<wort_audio>43_1_un_rat.mp3</wort_audio>
+		<wort_de>eine Ratte</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>Voilà un rat.</satz_fr>
+		<satz_audio>43_1_Voila_un_rat.mp3</satz_audio>
+		<satz_de>Da ist eine Ratte.</satz_de>
+	</record>
+	<record num="134">
+		<wort_fr>un pantalon</wort_fr>
+		<wort_audio>43_1_un_pantalon.mp3</wort_audio>
+		<wort_de>eine Hose</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>Tu as un nouveau pantalon?</satz_fr>
+		<satz_audio>43_1_Tu_as_un_nouveau_pantalon.mp3</satz_audio>
+		<satz_de>Hast du eine neue Hose?</satz_de>
+	</record>
+	<record num="135">
+		<wort_fr>une échelle</wort_fr>
+		<wort_audio>43_1_une_echelle.mp3</wort_audio>
+		<wort_de>eine Leiter</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>L&apos;échelle est haute.</satz_fr>
+		<satz_audio>43_1_Lechelle_est_haute.mp3</satz_audio>
+		<satz_de>Die Leiter ist hoch.</satz_de>
+	</record>
+	<record num="136">
+		<wort_fr>un panier</wort_fr>
+		<wort_audio>43_1_un_panier.mp3</wort_audio>
+		<wort_de>ein Korb</wort_de>
+		<mag>4.3</mag>
+		<parc>1</parc>
+		<satz_fr>Voici un panier.</satz_fr>
+		<satz_audio>43_1_Voici_un_panier.mp3</satz_audio>
+		<satz_de>Hier ist ein Korb.</satz_de>
+	</record>
+	<record num="137">
+		<wort_fr>Désolé!</wort_fr>
+		<wort_audio>43_2_Desole.mp3</wort_audio>
+		<wort_de>Tut mir leid!</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Désolé!</satz_fr>
+		<satz_audio>43_2_Desole.mp3</satz_audio>
+		<satz_de>Tut mir leid!</satz_de>
+	</record>
+	<record num="138">
+		<wort_fr>Tu as raison.</wort_fr>
+		<wort_audio>43_2_Tu_as_raison.mp3</wort_audio>
+		<wort_de>Du hast recht.</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Tu as raison.</satz_fr>
+		<satz_audio>43_2_Tu_as_raison.mp3</satz_audio>
+		<satz_de>Du hast recht.</satz_de>
+	</record>
+	<record num="139">
+		<wort_fr>Arrête ça!</wort_fr>
+		<wort_audio>43_2_Arrete_ca.mp3</wort_audio>
+		<wort_de>Hör auf damit!</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Arrête ça!</satz_fr>
+		<satz_audio>43_2_Arrete_ca.mp3</satz_audio>
+		<satz_de>Hör auf damit!</satz_de>
+	</record>
+	<record num="140">
+		<wort_fr>Bon, d&apos;accord!</wort_fr>
+		<wort_audio>43_2_Bon_daccord.mp3</wort_audio>
+		<wort_de>Gut, einverstanden!</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Bon, d&apos;accord!</satz_fr>
+		<satz_audio>43_2_Bon_daccord.mp3</satz_audio>
+		<satz_de>Gut, einverstanden!</satz_de>
+	</record>
+	<record num="141">
+		<wort_fr>Tant pis.</wort_fr>
+		<wort_audio>43_2_Tant_pis.mp3</wort_audio>
+		<wort_de>Halb so schlimm.</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Tant pis.</satz_fr>
+		<satz_audio>43_2_Tant_pis.mp3</satz_audio>
+		<satz_de>Halb so schlimm.</satz_de>
+	</record>
+	<record num="142">
+		<wort_fr>Ça va?</wort_fr>
+		<wort_audio>43_2_ca_va.mp3</wort_audio>
+		<wort_de>Geht&apos;s?</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Ça va?</satz_fr>
+		<satz_audio>43_2_ca_va.mp3</satz_audio>
+		<satz_de>Geht&apos;s?</satz_de>
+	</record>
+	<record num="143">
+		<wort_fr>Ça roule.</wort_fr>
+		<wort_audio>43_2_ca_roule.mp3</wort_audio>
+		<wort_de>Geht in Ordnung.</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Ça roule.</satz_fr>
+		<satz_audio>43_2_ca_roule.mp3</satz_audio>
+		<satz_de>Geht in Ordnung.</satz_de>
+	</record>
+	<record num="144">
+		<wort_fr>Qu&apos;est-ce que tu fais?</wort_fr>
+		<wort_audio>43_2_Questce_que_tu_fais.mp3</wort_audio>
+		<wort_de>Was machst du?</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Qu&apos;est-ce que tu fais?</satz_fr>
+		<satz_audio>43_2_Questce_que_tu_fais.mp3</satz_audio>
+		<satz_de>Was machst du?</satz_de>
+	</record>
+	<record num="145">
+		<wort_fr>J&apos;arrive.</wort_fr>
+		<wort_audio>43_2_Jarrive.mp3</wort_audio>
+		<wort_de>Ich komme.</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;arrive.</satz_fr>
+		<satz_audio>43_2_Jarrive.mp3</satz_audio>
+		<satz_de>Ich komme.</satz_de>
+	</record>
+	<record num="146">
+		<wort_fr>Tu veux me rendre un service?</wort_fr>
+		<wort_audio>43_2_Tu_veux_me_rendre_un_service.mp3</wort_audio>
+		<wort_de>Tust du mir einen Gefallen?</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Tu veux me rendre un service?</satz_fr>
+		<satz_audio>43_2_Tu_veux_me_rendre_un_service.mp3</satz_audio>
+		<satz_de>Tust du mir einen Gefallen?</satz_de>
+	</record>
+	<record num="147">
+		<wort_fr>Moi, je veux bien.</wort_fr>
+		<wort_audio>43_2_Moi_je_veux_bien.mp3</wort_audio>
+		<wort_de>Das mache ich gern.</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Moi, je veux bien.</satz_fr>
+		<satz_audio>43_2_Moi_je_veux_bien.mp3</satz_audio>
+		<satz_de>Das mache ich gern.</satz_de>
+	</record>
+	<record num="148">
+		<wort_fr>Fais voir.</wort_fr>
+		<wort_audio>43_2_Fais_voir.mp3</wort_audio>
+		<wort_de>Zeig.</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Fais voir.</satz_fr>
+		<satz_audio>43_2_Fais_voir.mp3</satz_audio>
+		<satz_de>Zeig.</satz_de>
+	</record>
+	<record num="149">
+		<wort_fr>File.</wort_fr>
+		<wort_audio>43_2_File.mp3</wort_audio>
+		<wort_de>Geh schon.</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>File.</satz_fr>
+		<satz_audio>43_2_File.mp3</satz_audio>
+		<satz_de>Geh schon.</satz_de>
+	</record>
+	<record num="150">
+		<wort_fr>Tu piges?</wort_fr>
+		<wort_audio>43_2_Tu_piges.mp3</wort_audio>
+		<wort_de>Kapierst du?</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Tu piges?</satz_fr>
+		<satz_audio>43_2_Tu_piges.mp3</satz_audio>
+		<satz_de>Kapierst du?</satz_de>
+	</record>
+	<record num="151">
+		<wort_fr>Fais gaffe!</wort_fr>
+		<wort_audio>43_2_Fais_gaffe.mp3</wort_audio>
+		<wort_de>Pass auf!</wort_de>
+		<mag>4.3</mag>
+		<parc>2</parc>
+		<satz_fr>Fais gaffe!</satz_fr>
+		<satz_audio>43_2_Fais_gaffe.mp3</satz_audio>
+		<satz_de>Pass auf!</satz_de>
+	</record>
+	<record num="152">
+		<wort_fr>Il s&apos;agit d&apos;un / d&apos;une...</wort_fr>
+		<wort_audio>51_Il_sagit_de_d.mp3</wort_audio>
+		<wort_de>Es handelt sich um ...</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>Il s&apos;agit d&apos;un spectacle.</satz_fr>
+		<satz_audio>51_Il_s_agit_d_un_spectacle.mp3</satz_audio>
+		<satz_de>Es handelt sich um eine Vorstellung.</satz_de>
+	</record>
+	<record num="153">
+		<wort_fr>un concours</wort_fr>
+		<wort_audio>51_un_concours.mp3</wort_audio>
+		<wort_de>ein Wettbewerb</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est un concours de chevaux.</satz_fr>
+		<satz_audio>51_C_est_un_concours_de_chevaux.mp3</satz_audio>
+		<satz_de>Das ist ein Pferde-Wettbewerb.</satz_de>
+	</record>
+	<record num="154">
+		<wort_fr>une fête</wort_fr>
+		<wort_audio>51_une_fete.mp3</wort_audio>
+		<wort_de>ein Fest</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>On fait la fête.</satz_fr>
+		<satz_audio>51_On_fait_la_fete.mp3</satz_audio>
+		<satz_de>Wir feiern.</satz_de>
+	</record>
+	<record num="155">
+		<wort_fr>une exposition</wort_fr>
+		<wort_audio>51_une_exposition.mp3</wort_audio>
+		<wort_de>eine Ausstellung</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>Cette exposition est magnifique.</satz_fr>
+		<satz_audio>51_Cette_exposition_est_magnifique.mp3</satz_audio>
+		<satz_de>Diese Ausstellung ist wunderbar.</satz_de>
+	</record>
+	<record num="156">
+		<wort_fr>un événement</wort_fr>
+		<wort_audio>51_un_evenement.mp3</wort_audio>
+		<wort_de>eine Veranstaltung</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est un événement extraordinaire.</satz_fr>
+		<satz_audio>51_C_est_un_evenement_extraordinaire.mp3</satz_audio>
+		<satz_de>Das ist eine einzigartige Veranstaltung.</satz_de>
+	</record>
+	<record num="157">
+		<wort_fr>une curiosité</wort_fr>
+		<wort_audio>51_une_curiosite.mp3</wort_audio>
+		<wort_de>eine Sehenswürdigkeit</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est une curiosité impressionnante.</satz_fr>
+		<satz_audio>51_C_est_une_curiosite_impressionnante.mp3</satz_audio>
+		<satz_de>Das ist eine beeindruckende Sehenswürdigkeit.</satz_de>
+	</record>
+	<record num="158">
+		<wort_fr>une foire</wort_fr>
+		<wort_audio>51_une_foire.mp3</wort_audio>
+		<wort_de>ein Jahrmarkt</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>On va à la foire?</satz_fr>
+		<satz_audio>51_On_va_a_la_foire.mp3</satz_audio>
+		<satz_de>Gehen wir auf den Jahrmarkt?</satz_de>
+	</record>
+	<record num="159">
+		<wort_fr>un ascenseur</wort_fr>
+		<wort_audio>51_un_ascenseur.mp3</wort_audio>
+		<wort_de>ein Lift</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>On prend l&apos;ascenseur?</satz_fr>
+		<satz_audio>51_On_prend_l_ascenseur.mp3</satz_audio>
+		<satz_de>Nehmen wir den Lift?</satz_de>
+	</record>
+	<record num="160">
+		<wort_fr>une montagne</wort_fr>
+		<wort_audio>51_une_montagne.mp3</wort_audio>
+		<wort_de>ein Berg</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est une montagne impressionnante.</satz_fr>
+		<satz_audio>51_C_est_une_montagne_impressionnante.mp3</satz_audio>
+		<satz_de>Das ist ein beeindruckender Berg.</satz_de>
+	</record>
+	<record num="161">
+		<wort_fr>... se trouve...</wort_fr>
+		<wort_audio>51_se_trouve.mp3</wort_audio>
+		<wort_de>... befindet sich ...</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>Vallorbe se trouve dans le Jura.</satz_fr>
+		<satz_audio>51_Vallorbe_se_trouve_dans_le_Jura.mp3</satz_audio>
+		<satz_de>Vallorbe befindet sich im Jura.</satz_de>
+	</record>
+	<record num="162">
+		<wort_fr>près de...</wort_fr>
+		<wort_audio>51_pres_de.mp3</wort_audio>
+		<wort_de>nahe bei ...</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>Versoix est un village près de Genève.</satz_fr>
+		<satz_audio>51_Versoix_est_un_village_pres_de_Geneve.mp3</satz_audio>
+		<satz_de>Versoix ist ein Dorf nahe bei Genf.</satz_de>
+	</record>
+	<record num="163">
+		<wort_fr>entre... et...</wort_fr>
+		<wort_audio>51_entre_et.mp3</wort_audio>
+		<wort_de>zwischen ... und ...</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>Fribourg se trouve entre Berne et Lausanne.</satz_fr>
+		<satz_audio>51_Fribourg_se_trouve_entre_Berne_et_Lausanne.mp3</satz_audio>
+		<satz_de>Freiburg befindet sich zwischen Bern und Lausanne.</satz_de>
+	</record>
+	<record num="164">
+		<wort_fr>au bord de...</wort_fr>
+		<wort_audio>51_au_bord_de.mp3</wort_audio>
+		<wort_de>am Rande von ..., am Ufer von ...</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>Marseille est au bord de la mer.</satz_fr>
+		<satz_audio>51_Marseille_est_au_bord_de_la_mer.mp3</satz_audio>
+		<satz_de>Marseille ist am Ufer (Rande) des Meeres.</satz_de>
+	</record>
+	<record num="165">
+		<wort_fr>... a lieu...</wort_fr>
+		<wort_audio>51_a_lieu.mp3</wort_audio>
+		<wort_de>... findet ... statt</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>Le festival a lieu en janvier.</satz_fr>
+		<satz_audio>51_Le_festival_a_lieu_en_janvier.mp3</satz_audio>
+		<satz_de>Das Festival findet im Januar statt.</satz_de>
+	</record>
+	<record num="166">
+		<wort_fr>au printemps, en été, en automne, en hiver</wort_fr>
+		<wort_audio>51_au_printemps_en_ete_en_automne_en_hiver.mp3</wort_audio>
+		<wort_de>im Frühling, im Sommer, im Herbst, im Winter</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>Le cortège a lieu en été.</satz_fr>
+		<satz_audio>51_Le_cortege_a_lieu_en_ete.mp3</satz_audio>
+		<satz_de>Der Umzug findet im Sommer statt.</satz_de>
+	</record>
+	<record num="167">
+		<wort_fr>au mois de...</wort_fr>
+		<wort_audio>51_au_mois_de.mp3</wort_audio>
+		<wort_de>im Monat ...</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>La fête des lumières a lieu au mois de décembre.</satz_fr>
+		<satz_audio>51_La_fete_des_lumieres_a_lieu_au_mois_de_decembre.mp3</satz_audio>
+		<satz_de>Das Lichterfest findet im Monat Dezember statt.</satz_de>
+	</record>
+	<record num="168">
+		<wort_fr>janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre</wort_fr>
+		<wort_audio>51_les_mois_noms.mp3</wort_audio>
+		<wort_de>Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est toujours en février.</satz_fr>
+		<satz_audio>51_C_est_toujours_en_fevrier.mp3</satz_audio>
+		<satz_de>Das ist immer im Februar.</satz_de>
+	</record>
+	<record num="169">
+		<wort_fr>... fait... de haut / de long / de large</wort_fr>
+		<wort_audio>51_fait_de_haut_de_long_de_large.mp3</wort_audio>
+		<wort_de>... ist ... hoch / lang / breit</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>La dune fait 3 km de long.</satz_fr>
+		<satz_audio>51_La_dune_fait_3_km_de_long.mp3</satz_audio>
+		<satz_de>Die Düne ist 3 km lang.</satz_de>
+	</record>
+	<record num="170">
+		<wort_fr>Je trouve ça...</wort_fr>
+		<wort_audio>51_Je_trouve_ca.mp3</wort_audio>
+		<wort_de>Ich finde das ...</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>Je trouve ça drôle.</satz_fr>
+		<satz_audio>51_Je_trouve_ca_drole.mp3</satz_audio>
+		<satz_de>Ich finde das lustig.</satz_de>
+	</record>
+	<record num="171">
+		<wort_fr>magnifique</wort_fr>
+		<wort_audio>51_magnifique.mp3</wort_audio>
+		<wort_de>grossartig, wunderbar</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est magnifique.</satz_fr>
+		<satz_audio>51_C_est_magnifique.mp3</satz_audio>
+		<satz_de>Das ist wunderbar.</satz_de>
+	</record>
+	<record num="172">
+		<wort_fr>extraordinaire</wort_fr>
+		<wort_audio>51_extraordinaire.mp3</wort_audio>
+		<wort_de>aussergewöhnlich, einzigartig</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>C&apos;est vraiment extraordinaire.</satz_fr>
+		<satz_audio>51_C_est_vraiment_extraordinaire.mp3</satz_audio>
+		<satz_de>Das ist wirklich einzigartig!</satz_de>
+	</record>
+	<record num="173">
+		<wort_fr>impressionnant</wort_fr>
+		<wort_audio>51_impressionnant.mp3</wort_audio>
+		<wort_de>beeindruckend, überwältigend</wort_de>
+		<mag>5.1</mag>
+		<parc>1</parc>
+		<satz_fr>Je trouve ça impressionnant.</satz_fr>
+		<satz_audio>51_Je_trouve_ca_impressionnant.mp3</satz_audio>
+		<satz_de>Ich finde das beeindruckend.</satz_de>
+	</record>
+	<record num="174">
+		<wort_fr>plie / pliez (plier)</wort_fr>
+		<wort_audio>51_plier.mp3</wort_audio>
+		<wort_de>falte / faltet (falten)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Pliez la feuille.</satz_fr>
+		<satz_audio>51_Pliez_la_feuille.mp3</satz_audio>
+		<satz_de>Faltet das Blatt.</satz_de>
+	</record>
+	<record num="175">
+		<wort_fr>découpe / découpez (découper)</wort_fr>
+		<wort_audio>51_decouper.mp3</wort_audio>
+		<wort_de>schneide aus / schneidet aus (ausschneiden)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Découpe les images.</satz_fr>
+		<satz_audio>51_Decoupe_les_images.mp3</satz_audio>
+		<satz_de>Schneide die Bilder aus.</satz_de>
+	</record>
+	<record num="176">
+		<wort_fr>remplis / remplissez (remplir)</wort_fr>
+		<wort_audio>51_remplir_remplis_remplissez.mp3</wort_audio>
+		<wort_de>fülle / füllt (füllen)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Remplis le verre.</satz_fr>
+		<satz_audio>51_Remplis_le_verre.mp3</satz_audio>
+		<satz_de>Fülle das Glas.</satz_de>
+	</record>
+	<record num="177">
+		<wort_fr>place / placez (placer)</wort_fr>
+		<wort_audio>51_placer.mp3</wort_audio>
+		<wort_de>platziere / platziert (platzieren)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Placez le vase sur la table.</satz_fr>
+		<satz_audio>51_Placez_le_vase_sur_la_table.mp3</satz_audio>
+		<satz_de>Platziert die Vase auf dem Tisch.</satz_de>
+	</record>
+	<record num="178">
+		<wort_fr>pose / posez (poser)</wort_fr>
+		<wort_audio>51_poser.mp3</wort_audio>
+		<wort_de>lege hin / stellt hin (hinlegen, hinstellen)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Pose le papier sur l&apos;eau.</satz_fr>
+		<satz_audio>51_Pose_le_papier_sur_l_eau.mp3</satz_audio>
+		<satz_de>Lege das Papier auf das Wasser.</satz_de>
+	</record>
+	<record num="179">
+		<wort_fr>bouche / bouchez (boucher)</wort_fr>
+		<wort_audio>51_boucher.mp3</wort_audio>
+		<wort_de>halte zu /  haltet zu (zuhalten)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Bouchez les oreilles!</satz_fr>
+		<satz_audio>51_Bouchez_les_oreilles.mp3</satz_audio>
+		<satz_de>Haltet die Ohren zu.</satz_de>
+	</record>
+	<record num="180">
+		<wort_fr>sors / sortez (sortir)</wort_fr>
+		<wort_audio>51_sortir_sors_sortez.mp3</wort_audio>
+		<wort_de>nimm heraus / nehmt heraus (herausnehmen)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Sors le verre du lavabo.</satz_fr>
+		<satz_audio>51_Sors_le_verre_du_lavabo.mp3</satz_audio>
+		<satz_de>Nimm das Glas aus dem Lavabo heraus.</satz_de>
+	</record>
+	<record num="181">
+		<wort_fr>scotche / scotchez (scotcher)</wort_fr>
+		<wort_audio>51_scotcher.mp3</wort_audio>
+		<wort_de>klebe / klebt (kleben)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Scotche le dessin au mur.</satz_fr>
+		<satz_audio>51_Scotche_le_dessin_au_mur.mp3</satz_audio>
+		<satz_de>Klebe die Zeichnung an die Wand.</satz_de>
+	</record>
+	<record num="182">
+		<wort_fr>tape / tapez (taper)</wort_fr>
+		<wort_audio>51_taper.mp3</wort_audio>
+		<wort_de>schlage / schlagt (schlagen)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Tape sur le tambour.</satz_fr>
+		<satz_audio>51_Tape_sur_le_tambour.mp3</satz_audio>
+		<satz_de>Schlage auf die Trommel.</satz_de>
+	</record>
+	<record num="183">
+		<wort_fr>colorie / coloriez (colorier)</wort_fr>
+		<wort_audio>51_colorier.mp3</wort_audio>
+		<wort_de>male aus / malt aus (ausmalen)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Colorie le dessin.</satz_fr>
+		<satz_audio>51_Colorie_le_dessin.mp3</satz_audio>
+		<satz_de>Male die Zeichnung aus.</satz_de>
+	</record>
+	<record num="184">
+		<wort_fr>approche / approchez (approcher)</wort_fr>
+		<wort_audio>51_approcher.mp3</wort_audio>
+		<wort_de>rücke näher / rückt näher (näherrücken)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Approche le verre.</satz_fr>
+		<satz_audio>51_Approche_le_verre.mp3</satz_audio>
+		<satz_de>Rücke das Glas näher.</satz_de>
+	</record>
+	<record num="185">
+		<wort_fr>ferme / fermez (fermer)</wort_fr>
+		<wort_audio>51_fermer.mp3</wort_audio>
+		<wort_de>schliesse / schliesst (schliessen)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Fermez les yeux.</satz_fr>
+		<satz_audio>51_Fermez_les_yeux.mp3</satz_audio>
+		<satz_de>Schliesst die Augen.</satz_de>
+	</record>
+	<record num="186">
+		<wort_fr>remonte / remontez (remonter)</wort_fr>
+		<wort_audio>51_remonter.mp3</wort_audio>
+		<wort_de>kremple hoch / krempelt hoch (hochkrempeln)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Remonte les manches.</satz_fr>
+		<satz_audio>51_Remonte_les_manche.mp3</satz_audio>
+		<satz_de>Kremple die Ärmel hoch.</satz_de>
+	</record>
+	<record num="187">
+		<wort_fr>retourne / retournez (retourner)</wort_fr>
+		<wort_audio>51_retourner.mp3</wort_audio>
+		<wort_de>drehe um / dreht um (umdrehen)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Retourne le verre.</satz_fr>
+		<satz_audio>51_Retourne_le_verre.mp3</satz_audio>
+		<satz_de>Drehe das Glas um.</satz_de>
+	</record>
+	<record num="188">
+		<wort_fr>touche / touchez (toucher)</wort_fr>
+		<wort_audio>51_toucher.mp3</wort_audio>
+		<wort_de>berühre / berührt (berühren)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Touche l&apos;écran.</satz_fr>
+		<satz_audio>51_Touche_l_ecran.mp3</satz_audio>
+		<satz_de>Berühre den Bildschirm.</satz_de>
+	</record>
+	<record num="189">
+		<wort_fr>penche / penchez (pencher)</wort_fr>
+		<wort_audio>51_pencher.mp3</wort_audio>
+		<wort_de>kippe / kippt (kippen)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Penche le verre.</satz_fr>
+		<satz_audio>51_Penche_le_verre.mp3</satz_audio>
+		<satz_de>Kippe das Glas.</satz_de>
+	</record>
+	<record num="190">
+		<wort_fr>plonge / plongez (plonger)</wort_fr>
+		<wort_audio>51_plonger.mp3</wort_audio>
+		<wort_de>tauche / taucht (tauchen)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Plongez le verre dans l&apos;eau.</satz_fr>
+		<satz_audio>51_Plongez_le_verre_dans_l_eau.mp3</satz_audio>
+		<satz_de>Taucht das Glas ins Wasser.</satz_de>
+	</record>
+	<record num="191">
+		<wort_fr>tapote / tapotez (tapoter)</wort_fr>
+		<wort_audio>51_tapoter.mp3</wort_audio>
+		<wort_de>klopfe leicht / klopft leicht (leicht klopfen)</wort_de>
+		<mag>5.1</mag>
+		<parc>2</parc>
+		<satz_fr>Tapotez sur la table.</satz_fr>
+		<satz_audio>51_Tapotez_sur_la_table.mp3</satz_audio>
+		<satz_de>Klopft leicht auf den Tisch.</satz_de>
+	</record>
+	<record num="192">
+		<wort_fr>Cela ne vous regarde pas.</wort_fr>
+		<wort_audio>52_Cela_ne_vous_regarde_pas.mp3</wort_audio>
+		<wort_de>Das geht Sie / euch nichts an.</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Cela ne vous regarde pas.</satz_fr>
+		<satz_audio>52_Cela_ne_vous_regarde_pas.mp3</satz_audio>
+		<satz_de>Das geht Sie / euch nichts an.</satz_de>
+	</record>
+	<record num="193">
+		<wort_fr>Ça ne sert à rien.</wort_fr>
+		<wort_audio>52_Ca_ne_sert_a_rien.mp3</wort_audio>
+		<wort_de>Das bringt nichts.</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Ça ne sert à rien.</satz_fr>
+		<satz_audio>52_Ca_ne_sert_a_rien.mp3</satz_audio>
+		<satz_de>Das bringt nichts.</satz_de>
+	</record>
+	<record num="194">
+		<wort_fr>Ce n&apos;est pas de ma faute.</wort_fr>
+		<wort_audio>52_Ce_nest_pas_ma_faute.mp3</wort_audio>
+		<wort_de>Das ist nicht mein Fehler.</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Ce n&apos;est pas de ma faute.</satz_fr>
+		<satz_audio>52_Ce_nest_pas_ma_faute.mp3</satz_audio>
+		<satz_de>Das ist nicht mein Fehler.</satz_de>
+	</record>
+	<record num="195">
+		<wort_fr>Je n&apos;ai jamais essayé.</wort_fr>
+		<wort_audio>52_Je_nai_jamais_essaye.mp3</wort_audio>
+		<wort_de>Ich habe es nie probiert.</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Je n&apos;ai jamais essayé.</satz_fr>
+		<satz_audio>52_Je_nai_jamais_essaye.mp3</satz_audio>
+		<satz_de>Ich habe es nie probiert.</satz_de>
+	</record>
+	<record num="196">
+		<wort_fr>Je ne sais pas.</wort_fr>
+		<wort_audio>52_Je_ne_sais_pas.mp3</wort_audio>
+		<wort_de>Ich weiss es nicht.</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Je ne sais pas.</satz_fr>
+		<satz_audio>52_Je_ne_sais_pas.mp3</satz_audio>
+		<satz_de>Ich weiss es nicht.</satz_de>
+	</record>
+	<record num="197">
+		<wort_fr>Ce n&apos;est pas un... / une...</wort_fr>
+		<wort_audio>52_Ce_nest_pas_un_une.mp3</wort_audio>
+		<wort_de>Das ist kein(e) ...</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Ce n&apos;est pas un bateau.</satz_fr>
+		<satz_audio>52_Ce_n_est_pas_un_bateau.mp3</satz_audio>
+		<satz_de>Das ist kein Schiff.</satz_de>
+	</record>
+	<record num="198">
+		<wort_fr>Je ne comprends pas.</wort_fr>
+		<wort_audio>52_Je_ne_comprends_pas.mp3</wort_audio>
+		<wort_de>Ich verstehe es nicht.</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Je ne comprends pas.</satz_fr>
+		<satz_audio>52_Je_ne_comprends_pas.mp3</satz_audio>
+		<satz_de>Ich verstehe es nicht.</satz_de>
+	</record>
+	<record num="199">
+		<wort_fr>Il n&apos;y a plus de...</wort_fr>
+		<wort_audio>52_Il_n_y_a_plus_de.mp3</wort_audio>
+		<wort_de>Es hat kein(e/en) ... mehr.</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Il n&apos;y a plus de chocolat.</satz_fr>
+		<satz_audio>52_Il_n_y_a_plus_de_chocolat.mp3</satz_audio>
+		<satz_de>Es hat keine Schokolade mehr.</satz_de>
+	</record>
+	<record num="200">
+		<wort_fr>rien du tout</wort_fr>
+		<wort_audio>52_rien_du_tout.mp3</wort_audio>
+		<wort_de>überhaupt nichts</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Je n&apos;entends rien du tout.</satz_fr>
+		<satz_audio>52_Je_n_entends_rien_du_tout.mp3</satz_audio>
+		<satz_de>Ich höre überhaupt nichts.</satz_de>
+	</record>
+	<record num="201">
+		<wort_fr>Ça fait 15 euros.</wort_fr>
+		<wort_audio>52_Ca_fait_15_euros.mp3</wort_audio>
+		<wort_de>Das kostet 15 Euro.</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Ça fait 15 euros.</satz_fr>
+		<satz_audio>52_Ca_fait_15_euros.mp3</satz_audio>
+		<satz_de>Das kostet 15 Euro.</satz_de>
+	</record>
+	<record num="202">
+		<wort_fr>Comment ça s&apos;écrit?</wort_fr>
+		<wort_audio>52_Comment_ca_secrit.mp3</wort_audio>
+		<wort_de>Wie schreibt man das?</wort_de>
+		<mag>5.2</mag>
+		<parc>1</parc>
+		<satz_fr>Comment ça s&apos;écrit?</satz_fr>
+		<satz_audio>52_Comment_ca_secrit.mp3</satz_audio>
+		<satz_de>Wie schreibt man das?</satz_de>
+	</record>
+	<record num="203">
+		<wort_fr>On a fait... (faire)</wort_fr>
+		<wort_audio>52_On_a_fait.mp3</wort_audio>
+		<wort_de>Wir haben ... gemacht.</wort_de>
+		<mag>5.2</mag>
+		<parc>2</parc>
+		<satz_fr>On a fait une blague.</satz_fr>
+		<satz_audio>52_On_a_fait_une_blague.mp3</satz_audio>
+		<satz_de>Wir haben einen Witz gemacht.</satz_de>
+	</record>
+	<record num="204">
+		<wort_fr>J&apos;ai dit... (dire)</wort_fr>
+		<wort_audio>52_J_ai_dit.mp3</wort_audio>
+		<wort_de>Ich habe ... gesagt.</wort_de>
+		<mag>5.2</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;ai dit: «Attention!»</satz_fr>
+		<satz_audio>52_J_ai_dit_Attention.mp3</satz_audio>
+		<satz_de>Ich habe gesagt: "Achtung!"</satz_de>
+	</record>
+	<record num="205">
+		<wort_fr>J&apos;ai eu... (avoir)</wort_fr>
+		<wort_audio>52_J_ai_eu.mp3</wort_audio>
+		<wort_de>Ich habe ... gehabt.</wort_de>
+		<mag>5.2</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;ai eu un choc.</satz_fr>
+		<satz_audio>52_J_ai_eu_un_choc.mp3</satz_audio>
+		<satz_de>Ich habe einen Schock gehabt.</satz_de>
+	</record>
+	<record num="206">
+		<wort_fr>Elle a vu... (voir)</wort_fr>
+		<wort_audio>52_Elle_a_vu.mp3</wort_audio>
+		<wort_de>Sie hat ... gesehen.</wort_de>
+		<mag>5.2</mag>
+		<parc>2</parc>
+		<satz_fr>Elle a vu un fantôme.</satz_fr>
+		<satz_audio>52_Elle_a_vu_un_fantome.mp3</satz_audio>
+		<satz_de>Sie hat ein Gespenst gesehen.</satz_de>
+	</record>
+	<record num="207">
+		<wort_fr>J&apos;ai été... (être)</wort_fr>
+		<wort_audio>52_J_ai_ete.mp3</wort_audio>
+		<wort_de>Ich bin ... gewesen.</wort_de>
+		<mag>5.2</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;ai été dans la maison hantée.</satz_fr>
+		<satz_audio>52_J_ai_ete_dans_la_maison_hantee.mp3</satz_audio>
+		<satz_de>Ich bin im Spukschloss gewesen.</satz_de>
+	</record>
+	<record num="208">
+		<wort_fr>J&apos;ai mis... (mettre)</wort_fr>
+		<wort_audio>52_J_ai_mis.mp3</wort_audio>
+		<wort_de>Ich habe ... gelegt. Ich habe ... gestellt.</wort_de>
+		<mag>5.2</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;ai mis une éponge mouillée sur la chaise.</satz_fr>
+		<satz_audio>52_J_ai_mis_une_eponge_mouillee_sur_la_chaise.mp3</satz_audio>
+		<satz_de>Ich habe einen nassen Schwamm auf den Stuhl gelegt.</satz_de>
+	</record>
+	<record num="209">
+		<wort_fr>Je suis allé(e)... (aller)</wort_fr>
+		<wort_audio>52_Je_suis_allee.mp3</wort_audio>
+		<wort_de>Ich bin ... gegangen.</wort_de>
+		<mag>5.2</mag>
+		<parc>2</parc>
+		<satz_fr>Je suis allé(e) à la maison.</satz_fr>
+		<satz_audio>52_Je_suis_allee_a_la_maison.mp3</satz_audio>
+		<satz_de>Ich bin nach Hause gegangen.</satz_de>
+	</record>
+	<record num="210">
+		<wort_fr>commencer</wort_fr>
+		<wort_audio>61_commencer.mp3</wort_audio>
+		<wort_de>anfangen, beginnen</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Commence.</satz_fr>
+		<satz_audio>61_Commence.mp3</satz_audio>
+		<satz_de>Fang an.</satz_de>
+	</record>
+	<record num="211">
+		<wort_fr>chaque jour</wort_fr>
+		<wort_audio>61_chaque_jour.mp3</wort_audio>
+		<wort_de>jeder Tag</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Chaque jour est une perle.</satz_fr>
+		<satz_audio>61_Chaque_jour_est_une_perle.mp3</satz_audio>
+		<satz_de>Jeder Tag ist eine Perle.</satz_de>
+	</record>
+	<record num="212">
+		<wort_fr>une cage</wort_fr>
+		<wort_audio>61_une_cage.mp3</wort_audio>
+		<wort_de>ein Käfig</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Dans la cage, il y a un hamster.</satz_fr>
+		<satz_audio>61_Dans_la_cage_il_y_a_un_hamster.mp3</satz_audio>
+		<satz_de>Im Käfig hat es einen Hamster.</satz_de>
+	</record>
+	<record num="213">
+		<wort_fr>une larme</wort_fr>
+		<wort_audio>61_une_larme.mp3</wort_audio>
+		<wort_de>eine Träne</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>J&apos;ai les larmes aux yeux.</satz_fr>
+		<satz_audio>61_Jai_les_larmes_aux_yeux.mp3</satz_audio>
+		<satz_de>Ich habe Tränen in den Augen.</satz_de>
+	</record>
+	<record num="214">
+		<wort_fr>une forêt</wort_fr>
+		<wort_audio>61_une_foret.mp3</wort_audio>
+		<wort_de>ein Wald</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>On joue dans la forêt.</satz_fr>
+		<satz_audio>61_On_joue_dans_la_foret.mp3</satz_audio>
+		<satz_de>Wir spielen im Wald.</satz_de>
+	</record>
+	<record num="215">
+		<wort_fr>une vague</wort_fr>
+		<wort_audio>61_une_vague.mp3</wort_audio>
+		<wort_de>eine Welle</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Aujourd&apos;hui, il y a beaucoup de vagues.</satz_fr>
+		<satz_audio>61_Aujourdhui_il_y_a_beaucoup_de_vagues.mp3</satz_audio>
+		<satz_de>Heute hat es viele Wellen.</satz_de>
+	</record>
+	<record num="216">
+		<wort_fr>le loup</wort_fr>
+		<wort_audio>61_le_loup.mp3</wort_audio>
+		<wort_de>der Wolf</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Dans les Grisons, il y a des loups.</satz_fr>
+		<satz_audio>61_Dans_les_Grisons_il_y_a_des_loups.mp3</satz_audio>
+		<satz_de>In Graubünden hat es Wölfe.</satz_de>
+	</record>
+	<record num="217">
+		<wort_fr>pauvre</wort_fr>
+		<wort_audio>61_pauvre.mp3</wort_audio>
+		<wort_de>arm</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Le clochard est pauvre.</satz_fr>
+		<satz_audio>61_Le_clochard_est_pauvre.mp3</satz_audio>
+		<satz_de>Der Clochard ist arm.</satz_de>
+	</record>
+	<record num="218">
+		<wort_fr>le fromage</wort_fr>
+		<wort_audio>61_le_fromage.mp3</wort_audio>
+		<wort_de>der Käse</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>J&apos;aime le fromage.</satz_fr>
+		<satz_audio>61_Jaime_le_fromage.mp3</satz_audio>
+		<satz_de>Ich mag Käse.</satz_de>
+	</record>
+	<record num="219">
+		<wort_fr>les déchets (m pl)</wort_fr>
+		<wort_audio>61_les_dechets_m_pl.mp3</wort_audio>
+		<wort_de>der Müll, der Abfall, der Kehricht</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Mettez les déchets dans la poubelle.</satz_fr>
+		<satz_audio>61_Mettez_les_dechets_dans_la_poubelle.mp3</satz_audio>
+		<satz_de>Werft den Abfall in den Mülleimer.</satz_de>
+	</record>
+	<record num="220">
+		<wort_fr>le silence</wort_fr>
+		<wort_audio>61_le_silence.mp3</wort_audio>
+		<wort_de>die Ruhe, die Stille</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Silence!</satz_fr>
+		<satz_audio>61_Silence.mp3</satz_audio>
+		<satz_de>Ruhe!</satz_de>
+	</record>
+	<record num="221">
+		<wort_fr>la fourmi</wort_fr>
+		<wort_audio>61_la_fourmi.mp3</wort_audio>
+		<wort_de>die Ameise</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>La fourmi est petite.</satz_fr>
+		<satz_audio>61_La_fourmi_est_petite.mp3</satz_audio>
+		<satz_de>Die Ameise ist klein.</satz_de>
+	</record>
+	<record num="222">
+		<wort_fr>la tête</wort_fr>
+		<wort_audio>61_la_tete.mp3</wort_audio>
+		<wort_de>der Kopf</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>J&apos;ai mal à la tête.</satz_fr>
+		<satz_audio>61_Jai_mal_a_la_tete.mp3</satz_audio>
+		<satz_de>Ich habe Kopfschmerzen.</satz_de>
+	</record>
+	<record num="223">
+		<wort_fr>Ça n&apos;existe pas.</wort_fr>
+		<wort_audio>61_Ca_nexiste_pas.mp3</wort_audio>
+		<wort_de>Das gibt es nicht. Das existiert nicht.</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Ça existe.</satz_fr>
+		<satz_audio>61_Ca_existe.mp3</satz_audio>
+		<satz_de>Das gibt es. Das existiert.</satz_de>
+	</record>
+	<record num="224">
+		<wort_fr>Pourquoi pas?</wort_fr>
+		<wort_audio>61_Pourquoi_pas.mp3</wort_audio>
+		<wort_de>Warum nicht?</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Pourquoi?</satz_fr>
+		<satz_audio>61_Pourquoi.mp3</satz_audio>
+		<satz_de>Warum?</satz_de>
+	</record>
+	<record num="225">
+		<wort_fr>l&apos;arbre (m)</wort_fr>
+		<wort_audio>61_larbre_m.mp3</wort_audio>
+		<wort_de>der Baum</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>On grimpe sur l&apos;arbre?</satz_fr>
+		<satz_audio>61_On_grimpe_sur_larbre.mp3</satz_audio>
+		<satz_de>Klettern wir auf den Baum?</satz_de>
+	</record>
+	<record num="226">
+		<wort_fr>le magasin</wort_fr>
+		<wort_audio>61_le_magasin.mp3</wort_audio>
+		<wort_de>das Geschäft, der Laden</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Le magasin ouvre à 8 heures.</satz_fr>
+		<satz_audio>61_Le_magasin_ouvre_a_8_heures.mp3</satz_audio>
+		<satz_de>Der Laden öffnet um 8 Uhr.</satz_de>
+	</record>
+	<record num="227">
+		<wort_fr>acheter</wort_fr>
+		<wort_audio>61_acheter.mp3</wort_audio>
+		<wort_de>kaufen, einkaufen</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>J&apos;achète un chewing-gum.</satz_fr>
+		<satz_audio>61_Jachete_un_chewing_gum.mp3</satz_audio>
+		<satz_de>Ich kaufe einen Kaugummi.</satz_de>
+	</record>
+	<record num="228">
+		<wort_fr>le feu rouge</wort_fr>
+		<wort_audio>61_le_feu_rouge.mp3</wort_audio>
+		<wort_de>das Rotlicht, die Verkehrsampel</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Attention, un feu rouge!</satz_fr>
+		<satz_audio>61_Attention_un_feu_rouge.mp3</satz_audio>
+		<satz_de>Achtung, ein Rotlicht!</satz_de>
+	</record>
+	<record num="229">
+		<wort_fr>la montre</wort_fr>
+		<wort_audio>61_la_montre.mp3</wort_audio>
+		<wort_de>die Armbanduhr</wort_de>
+		<mag>6.1</mag>
+		<parc>1</parc>
+		<satz_fr>Tu as une montre?</satz_fr>
+		<satz_audio>61_Tu_as_une_montre.mp3</satz_audio>
+		<satz_de>Hast du eine Uhr?</satz_de>
+	</record>
+	<record num="230">
+		<wort_fr>Quand?</wort_fr>
+		<wort_audio>61_Quand.mp3</wort_audio>
+		<wort_de>Wann?</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Quand?</satz_fr>
+		<satz_audio>61_Quand.mp3</satz_audio>
+		<satz_de>Wann?</satz_de>
+	</record>
+	<record num="231">
+		<wort_fr>Cette invention date de / du...</wort_fr>
+		<wort_audio>61_Cette_invention_date_de_du.mp3</wort_audio>
+		<wort_de>Diese Erfindung gibt es seit ...</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Cette invention date du 9e siècle.</satz_fr>
+		<satz_audio>61_Cette_invention_date_du_9e_siecle.mp3</satz_audio>
+		<satz_de>Diese Erfindung gibt es seit dem 9. Jahrhundert.</satz_de>
+	</record>
+	<record num="232">
+		<wort_fr>Où?</wort_fr>
+		<wort_audio>61_Ou.mp3</wort_audio>
+		<wort_de>Wo?</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Où?</satz_fr>
+		<satz_audio>61_Ou.mp3</satz_audio>
+		<satz_de>Wo?</satz_de>
+	</record>
+	<record num="233">
+		<wort_fr>Cette invention apparaît à / en / au / aux...</wort_fr>
+		<wort_audio>61_Cette_invention_apparait_a_en_au_aux.mp3</wort_audio>
+		<wort_de>Diese Erfindung kommt aus ... / tritt in ... auf.</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Cette invention apparaît en Suisse.</satz_fr>
+		<satz_audio>61_Cette_invention_apparait_en_Suisse.mp3</satz_audio>
+		<satz_de>Diese Erfindung kommt aus der Schweiz.</satz_de>
+	</record>
+	<record num="234">
+		<wort_fr>Qui?</wort_fr>
+		<wort_audio>61_Qui.mp3</wort_audio>
+		<wort_de>Wer?</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Qui?</satz_fr>
+		<satz_audio>61_Qui.mp3</satz_audio>
+		<satz_de>Wer?</satz_de>
+	</record>
+	<record num="235">
+		<wort_fr>C&apos;est... qui a inventé cet objet.</wort_fr>
+		<wort_audio>61_Cest_qui_a_invente_cet_objet.mp3</wort_audio>
+		<wort_de>... hat diesen Gegenstand erfunden.</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>C&apos;est un Français qui a inventé cet objet.</satz_fr>
+		<satz_audio>61_Cest_un_Francais_qui_a_invente_cet_objet.mp3</satz_audio>
+		<satz_de>Ein Franzose hat diesen Gegenstand erfunden.</satz_de>
+	</record>
+	<record num="236">
+		<wort_fr>Ce sont... qui ont inventé cet objet.</wort_fr>
+		<wort_audio>61_Ce_sont_qui_ont_invente_cet_objet.mp3</wort_audio>
+		<wort_de>... haben diesen Gegenstand erfunden.</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Ce sont deux Japonais qui ont inventé cet objet.</satz_fr>
+		<satz_audio>61_Ce_sont_deux_Japonais_qui_ont_invente_cet_objet.mp3</satz_audio>
+		<satz_de>Zwei Japaner haben diesen Gegenstand erfunden.</satz_de>
+	</record>
+	<record num="237">
+		<wort_fr>Pour quoi faire?</wort_fr>
+		<wort_audio>61_Pour_quoi_faire.mp3</wort_audio>
+		<wort_de>Wozu?</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Pour quoi faire?</satz_fr>
+		<satz_audio>61_Pour_quoi_faire.mp3</satz_audio>
+		<satz_de>Wozu?</satz_de>
+	</record>
+	<record num="238">
+		<wort_fr>On utilise cet objet pour...</wort_fr>
+		<wort_audio>61_On_utilise_cet_objet_pour.mp3</wort_audio>
+		<wort_de>Man braucht diesen Gegenstand, um ...</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>On utilise cet objet pour faire du sport.</satz_fr>
+		<satz_audio>61_On_utilise_cet_objet_pour_faire_du_sport.mp3</satz_audio>
+		<satz_de>Man braucht diesen Gegenstand, um Sport zu treiben.</satz_de>
+	</record>
+	<record num="239">
+		<wort_fr>Pour qui?</wort_fr>
+		<wort_audio>61_Pour_qui.mp3</wort_audio>
+		<wort_de>Für wen?</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Pour qui?</satz_fr>
+		<satz_audio>61_Pour_qui.mp3</satz_audio>
+		<satz_de>Für wen?</satz_de>
+	</record>
+	<record num="240">
+		<wort_fr>Cette invention est pour...</wort_fr>
+		<wort_audio>61_Cette_invention_est_pour.mp3</wort_audio>
+		<wort_de>Diese Erfindung ist für ...</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Cette invention est pour tout le monde.</satz_fr>
+		<satz_audio>61_Cette_invention_est_pour_tout_le_monde.mp3</satz_audio>
+		<satz_de>Diese Erfindung ist für alle.</satz_de>
+	</record>
+	<record num="241">
+		<wort_fr>tout le monde</wort_fr>
+		<wort_audio>61_tout_le_monde.mp3</wort_audio>
+		<wort_de>alle, jedermann</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Tout le monde applaudit.</satz_fr>
+		<satz_audio>61_Tout_le_monde_applaudit.mp3</satz_audio>
+		<satz_de>Alle applaudieren.</satz_de>
+	</record>
+	<record num="242">
+		<wort_fr>Comment?</wort_fr>
+		<wort_audio>61_Comment.mp3</wort_audio>
+		<wort_de>Wie?</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Comment?</satz_fr>
+		<satz_audio>61_Comment.mp3</satz_audio>
+		<satz_de>Wie?</satz_de>
+	</record>
+	<record num="243">
+		<wort_fr>Cet objet est... / Cette invention est...</wort_fr>
+		<wort_audio>61_Cet_objet_est_Cette_invention_est.mp3</wort_audio>
+		<wort_de>Dieser Gegenstand ist ... / Diese Erfindung ist ...</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Cet objet est en plastique.</satz_fr>
+		<satz_audio>61_Cet_objet_est_en_plastique.mp3</satz_audio>
+		<satz_de>Dieser Gegenstand ist aus Plastik.</satz_de>
+	</record>
+	<record num="244">
+		<wort_fr>en bois</wort_fr>
+		<wort_audio>61_en_bois.mp3</wort_audio>
+		<wort_de>aus Holz</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Cette invention est en bois.</satz_fr>
+		<satz_audio>61_Cette_invention_est_en_bois.mp3</satz_audio>
+		<satz_de>Diese Erfindung ist aus Holz.</satz_de>
+	</record>
+	<record num="245">
+		<wort_fr>en verre</wort_fr>
+		<wort_audio>61_en_verre.mp3</wort_audio>
+		<wort_de>aus Glas</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Cet objet est en verre.</satz_fr>
+		<satz_audio>61_Cet_objet_est_en_verre.mp3</satz_audio>
+		<satz_de>Dieses Objekt ist aus Glas.</satz_de>
+	</record>
+	<record num="246">
+		<wort_fr>bon / bonne</wort_fr>
+		<wort_audio>61_bon_bonne.mp3</wort_audio>
+		<wort_de>gut</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>La fondue est bonne.</satz_fr>
+		<satz_audio>61_La_fondue_est_bonne.mp3</satz_audio>
+		<satz_de>Das Fondue ist gut.</satz_de>
+	</record>
+	<record num="247">
+		<wort_fr>rond / ronde</wort_fr>
+		<wort_audio>61_rond_ronde.mp3</wort_audio>
+		<wort_de>rund</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Cet objet est rond.</satz_fr>
+		<satz_audio>61_Cet_objet_est_rond.mp3</satz_audio>
+		<satz_de>Dieses Objekt ist rund.</satz_de>
+	</record>
+	<record num="248">
+		<wort_fr>carré / carrée</wort_fr>
+		<wort_audio>61_carre_carree.mp3</wort_audio>
+		<wort_de>viereckig</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Cet objet est carré.</satz_fr>
+		<satz_audio>61_Cet_objet_est_carre.mp3</satz_audio>
+		<satz_de>Dieses Objekt ist viereckig.</satz_de>
+	</record>
+	<record num="249">
+		<wort_fr>utile</wort_fr>
+		<wort_audio>61_utile.mp3</wort_audio>
+		<wort_de>nützlich</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Le caddie est utile.</satz_fr>
+		<satz_audio>61_Le_caddie_est_utile.mp3</satz_audio>
+		<satz_de>Der Einkaufswagen ist nützlich.</satz_de>
+	</record>
+	<record num="250">
+		<wort_fr>passionnant / passionnante</wort_fr>
+		<wort_audio>61_passionnant_passionnante.mp3</wort_audio>
+		<wort_de>faszinierend</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Ce jeu est passionnant.</satz_fr>
+		<satz_audio>61_Ce_jeu_est_passionnant.mp3</satz_audio>
+		<satz_de>Dieses Spiel ist faszinierend.</satz_de>
+	</record>
+	<record num="251">
+		<wort_fr>le dentifrice</wort_fr>
+		<wort_audio>61_le_dentifrice.mp3</wort_audio>
+		<wort_de>die Zahnpasta</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Tu préfères le dentifrice Elmex ou Signal?</satz_fr>
+		<satz_audio>61_Tu_preferes_le_dentifrice_Elmex_ou_Signal.mp3</satz_audio>
+		<satz_de>Hast du lieber die Zahnpasta Elmex oder Signal?</satz_de>
+	</record>
+	<record num="252">
+		<wort_fr>la brosse à dents</wort_fr>
+		<wort_audio>61_la_brosse_a_dents.mp3</wort_audio>
+		<wort_de>die Zahnbürste</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Tu as une brosse à dents pour moi?</satz_fr>
+		<satz_audio>61_Tu_as_une_brosse_a_dents_pour_moi.mp3</satz_audio>
+		<satz_de>Hast du eine Zahnbürste für mich?</satz_de>
+	</record>
+	<record num="253">
+		<wort_fr>le réveil</wort_fr>
+		<wort_audio>61_le_reveil.mp3</wort_audio>
+		<wort_de>der Wecker</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Le réveil sonne.</satz_fr>
+		<satz_audio>61_Le_reveil_sonne.mp3</satz_audio>
+		<satz_de>Der Wecker läutet.</satz_de>
+	</record>
+	<record num="254">
+		<wort_fr>le mouchoir</wort_fr>
+		<wort_audio>61_le_mouchoir.mp3</wort_audio>
+		<wort_de>das Taschentuch</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Il me faut un mouchoir.</satz_fr>
+		<satz_audio>61_Il_me_faut_un_mouchoir.mp3</satz_audio>
+		<satz_de>Ich brauche ein Taschentuch.</satz_de>
+	</record>
+	<record num="255">
+		<wort_fr>le caddie</wort_fr>
+		<wort_audio>61_le_caddie.mp3</wort_audio>
+		<wort_de>der Einkaufswagen</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Le caddie est pratique.</satz_fr>
+		<satz_audio>61_Le_caddie_est_pratique.mp3</satz_audio>
+		<satz_de>Der Einkaufswagen ist praktisch.</satz_de>
+	</record>
+	<record num="256">
+		<wort_fr>l&apos;allumette (f)</wort_fr>
+		<wort_audio>61_lallumette_f.mp3</wort_audio>
+		<wort_de>das Zündholz, das Streichholz</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Passe-moi les allumettes, s&apos;il te plaît.</satz_fr>
+		<satz_audio>61_Passe_moi_les_allumettes_sil_te_plait.mp3</satz_audio>
+		<satz_de>Gib mir die Zündhölzer, bitte.</satz_de>
+	</record>
+	<record num="257">
+		<wort_fr>les lunettes (f pl)</wort_fr>
+		<wort_audio>61_les_lunettes_f_pl.mp3</wort_audio>
+		<wort_de>die Brille</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Où sont mes lunettes?</satz_fr>
+		<satz_audio>61_Ou_sont_mes_lunettes.mp3</satz_audio>
+		<satz_de>Wo ist meine Brille?</satz_de>
+	</record>
+	<record num="258">
+		<wort_fr>la paille</wort_fr>
+		<wort_audio>61_la_paille.mp3</wort_audio>
+		<wort_de>der Trinkhalm (das Stroh)</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Je peux avoir une paille?</satz_fr>
+		<satz_audio>61_Je_peux_avoir_une_paille.mp3</satz_audio>
+		<satz_de>Kann ich einen Trinkhalm haben?</satz_de>
+	</record>
+	<record num="259">
+		<wort_fr>la poussette</wort_fr>
+		<wort_audio>61_la_poussette.mp3</wort_audio>
+		<wort_de>der Kinderwagen</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Le bébé est dans la poussette.</satz_fr>
+		<satz_audio>61_Le_bebe_est_dans_la_poussette.mp3</satz_audio>
+		<satz_de>Das Baby ist im Kinderwagen.</satz_de>
+	</record>
+	<record num="260">
+		<wort_fr>la chasse d&apos;eau</wort_fr>
+		<wort_audio>61_la_chasse_deau.mp3</wort_audio>
+		<wort_de>die WC-Spülung</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>Tire la chasse d&apos;eau.</satz_fr>
+		<satz_audio>61_Tire_la_chasse_deau.mp3</satz_audio>
+		<satz_de>Spüle.</satz_de>
+	</record>
+	<record num="261">
+		<wort_fr>le dessin animé</wort_fr>
+		<wort_audio>61_le_dessin_anime.mp3</wort_audio>
+		<wort_de>der Zeichentrickfilm</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>J&apos;aime ce dessin animé.</satz_fr>
+		<satz_audio>61_Jaime_ce_dessin_anime.mp3</satz_audio>
+		<satz_de>Ich mag diesen Zeichentrickfilm.</satz_de>
+	</record>
+	<record num="262">
+		<wort_fr>l&apos;ours en peluche (m)</wort_fr>
+		<wort_audio>61_lours_en_peluche_m.mp3</wort_audio>
+		<wort_de>der Plüschbär</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>L&apos;ours en peluche est doux.</satz_fr>
+		<satz_audio>61_Lours_en_peluche_est_doux.mp3</satz_audio>
+		<satz_de>Der Plüschbär ist weich.</satz_de>
+	</record>
+	<record num="263">
+		<wort_fr>la souris d&apos;ordinateur</wort_fr>
+		<wort_audio>61_la_souris_dordinateur.mp3</wort_audio>
+		<wort_de>die Computermaus</wort_de>
+		<mag>6.1</mag>
+		<parc>2</parc>
+		<satz_fr>La souris d&apos;ordinateur est utile.</satz_fr>
+		<satz_audio>61_La_souris_dordinateur_est_utile.mp3</satz_audio>
+		<satz_de>Die Computermaus ist nützlich.</satz_de>
+	</record>
+	<record num="264">
+		<wort_fr>Que signifie... ?</wort_fr>
+		<wort_audio>62_Que_signifie.mp3</wort_audio>
+		<wort_de>Was bedeutet ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Que signifie ce mot?</satz_fr>
+		<satz_audio>62_Que_signifie_ce_mot.mp3</satz_audio>
+		<satz_de>Was bedeutet dieses Wort?</satz_de>
+	</record>
+	<record num="265">
+		<wort_fr>Quel est le... de... ? Quelle est la... de... ?</wort_fr>
+		<wort_audio>62_Quel_est_le_de_Quelle_est_la_de.mp3</wort_audio>
+		<wort_de>Welches ist der ... von ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Quelle est la capitale de la France?</satz_fr>
+		<satz_audio>62_Quelle_est_la_capitale_de_la_France.mp3</satz_audio>
+		<satz_de>Welches ist die Hauptstadt Frankreichs?</satz_de>
+	</record>
+	<record num="266">
+		<wort_fr>Quel est le plus grand... ? / Quelle est la plus grande... ?</wort_fr>
+		<wort_audio>62_Quel_est_le_plus_grand_Quelle_est_la_plus_grande.mp3</wort_audio>
+		<wort_de>Welche ist die grösste ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Quelle est la plus grande planète?</satz_fr>
+		<satz_audio>62_Quelle_est_la_plus_grande_planete.mp3</satz_audio>
+		<satz_de>Welches ist der grösste Planet?</satz_de>
+	</record>
+	<record num="267">
+		<wort_fr>Quel est le plus petit... ? / Quelle est la plus petite... ?</wort_fr>
+		<wort_audio>62_Quel_est_le_plus_petit_Quelle_est_la_plus_petite.mp3</wort_audio>
+		<wort_de>Welche ist die kleinste ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Quel est le plus petit continent?</satz_fr>
+		<satz_audio>62_Quel_est_le_plus_petit_continent.mp3</satz_audio>
+		<satz_de>Welches ist der kleinste Kontinent?</satz_de>
+	</record>
+	<record num="268">
+		<wort_fr>Quel objet sert à...?</wort_fr>
+		<wort_audio>62_Quel_objet_sert_a.mp3</wort_audio>
+		<wort_de>Welcher Gegenstand dient zum ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Quel objet sert à faire du feu?</satz_fr>
+		<satz_audio>62_Quel_objet_sert_a_faire_du_feu.mp3</satz_audio>
+		<satz_de>Welcher Gegenstand dient zum Feuer machen?</satz_de>
+	</record>
+	<record num="269">
+		<wort_fr>Qui a inventé... ?</wort_fr>
+		<wort_audio>62_Qui_a_invente.mp3</wort_audio>
+		<wort_de>Wer hat ... erfunden?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Qui a inventé la brosse à dents?</satz_fr>
+		<satz_audio>62_Qui_a_invente_la_brosse_a_dents.mp3</satz_audio>
+		<satz_de>Wer hat die Zahnbürste erfunden?</satz_de>
+	</record>
+	<record num="270">
+		<wort_fr>Qui a... ?</wort_fr>
+		<wort_audio>62_Qui_a.mp3</wort_audio>
+		<wort_de>Wer hat ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Qui a vu le match?</satz_fr>
+		<satz_audio>62_Qui_a_vu_le_match.mp3</satz_audio>
+		<satz_de>Wer hat den Match gesehen?</satz_de>
+	</record>
+	<record num="271">
+		<wort_fr>Qui est... ?</wort_fr>
+		<wort_audio>62_Qui_est.mp3</wort_audio>
+		<wort_de>Wer ist ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Qui est le copain d&apos;Astérix?</satz_fr>
+		<satz_audio>62_Qui_est_le_copain_dAsterix.mp3</satz_audio>
+		<satz_de>Wer ist Asterix&apos; Freund?</satz_de>
+	</record>
+	<record num="272">
+		<wort_fr>Où se trouve... ?</wort_fr>
+		<wort_audio>62_Ou_se_trouve.mp3</wort_audio>
+		<wort_de>Wo befindet sich ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Où se trouve la tour Eiffel?</satz_fr>
+		<satz_audio>62_Ou_se_trouve_la_tour_Eiffel.mp3</satz_audio>
+		<satz_de>Wo befindet sich der Eiffelturm?</satz_de>
+	</record>
+	<record num="273">
+		<wort_fr>Comment dit-on... en... ?</wort_fr>
+		<wort_audio>62_Comment_dit_on_en.mp3</wort_audio>
+		<wort_de>Wie sagt man ... auf ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Comment dit-on «merci» en espagnol?</satz_fr>
+		<satz_audio>62_Comment_dit_on_merci_en_espagnol.mp3</satz_audio>
+		<satz_de>Wie sagt man "danke" auf Spanisch?</satz_de>
+	</record>
+	<record num="274">
+		<wort_fr>Pourquoi?</wort_fr>
+		<wort_audio>62_Pourquoi.mp3</wort_audio>
+		<wort_de>Warum?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Il n&apos;y a pas de mouches en hiver. Pourquoi?</satz_fr>
+		<satz_audio>62_Il_ny_a_pas_de_mouches_en_hiver_Pourquoi.mp3</satz_audio>
+		<satz_de>Im Winter hat es keine Fliegen. Warum?</satz_de>
+	</record>
+	<record num="275">
+		<wort_fr>Quel est le... de tes rêves? / Quelle est la... de tes rêves?</wort_fr>
+		<wort_audio>62_Quel_est_le_de_tes_reves_Quelle_est_la_de_tes_reves.mp3</wort_audio>
+		<wort_de>Welcher ist dein Traum ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Quel est le métier de tes rêves?</satz_fr>
+		<satz_audio>62_Quel_est_le_metier_de_tes_reves.mp3</satz_audio>
+		<satz_de>Welcher ist dein Traumberuf?</satz_de>
+	</record>
+	<record num="276">
+		<wort_fr>Quel est ton... préféré? / Quelle est ta... préférée?</wort_fr>
+		<wort_audio>62_Quel_est_tonprefere_Quelle_est_ta_preferee.mp3</wort_audio>
+		<wort_de>Welcher ist dein Lieblings ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Quel est ton plat préféré?</satz_fr>
+		<satz_audio>62_Quel_est_ton_plat_prefere.mp3</satz_audio>
+		<satz_de>Welches ist dein Lieblingsessen?</satz_de>
+	</record>
+	<record num="277">
+		<wort_fr>Quels sont tes... préférés? / Quelles sont tes... préférées?</wort_fr>
+		<wort_audio>62_Quels_sont_tes_preferes_Quelles_sont_tes_preferees.mp3</wort_audio>
+		<wort_de>Welches sind deine Lieblings ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Quels sont tes animaux préférés?</satz_fr>
+		<satz_audio>62_Quels_sont_tes_animaux_preferes.mp3</satz_audio>
+		<satz_de>Welches sind deine Lieblingstiere?</satz_de>
+	</record>
+	<record num="278">
+		<wort_fr>A ton avis, qui est le meilleur... / la meilleure... ?</wort_fr>
+		<wort_audio>62_A_ton_avis_qui_est_le_meilleur_la_meilleure.mp3</wort_audio>
+		<wort_de>Wer ist deiner Meinung nach der beste ...?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>A ton avis, qui est le meilleur chanteur?</satz_fr>
+		<satz_audio>62_A_ton_avis_qui_est_le_meilleur_chanteur.mp3</satz_audio>
+		<satz_de>Deiner Meinung nach, wer ist der beste Sänger?</satz_de>
+	</record>
+	<record num="279">
+		<wort_fr>Où aimerais-tu... ?</wort_fr>
+		<wort_audio>62_Ou_aimerais_tu.mp3</wort_audio>
+		<wort_de>Wo möchtest du ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Où aimerais-tu habiter?</satz_fr>
+		<satz_audio>62_Ou_aimerais_tu_habiter.mp3</satz_audio>
+		<satz_de>Wo möchtest du wohnen?</satz_de>
+	</record>
+	<record num="280">
+		<wort_fr>passer les vacances</wort_fr>
+		<wort_audio>62_passer_les_vacances.mp3</wort_audio>
+		<wort_de>die Ferien verbringen</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Où aimerais-tu passer les vacances?</satz_fr>
+		<satz_audio>62_Ou_aimerais_tu_passer_les_vacances.mp3</satz_audio>
+		<satz_de>Wo möchtest du die Ferien verbringen?</satz_de>
+	</record>
+	<record num="281">
+		<wort_fr>vivre</wort_fr>
+		<wort_audio>62_vivre.mp3</wort_audio>
+		<wort_de>leben</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Où aimerais-tu vivre?</satz_fr>
+		<satz_audio>62_Ou_aimerais_tu_vivre.mp3</satz_audio>
+		<satz_de>Wo möchtest du leben?</satz_de>
+	</record>
+	<record num="282">
+		<wort_fr>Comment s&apos;appelle ton / ta... ?</wort_fr>
+		<wort_audio>62_Comment_sappelle_ton_ta.mp3</wort_audio>
+		<wort_de>Wie heisst dein ... ?</wort_de>
+		<mag>6.2</mag>
+		<parc>1</parc>
+		<satz_fr>Comment s&apos;appelle ton chien?</satz_fr>
+		<satz_audio>62_Comment_sappelle_ton_chien.mp3</satz_audio>
+		<satz_de>Wie heisst dein Hund?</satz_de>
+	</record>
+	<record num="283">
+		<wort_fr>Mon nom est...</wort_fr>
+		<wort_audio>62_Mon_nom_est.mp3</wort_audio>
+		<wort_de>Mein Name ist ...</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>Mon nom est Marc.</satz_fr>
+		<satz_audio>62_Mon_nom_est_Marc.mp3</satz_audio>
+		<satz_de>Mein Name ist Marc.</satz_de>
+	</record>
+	<record num="284">
+		<wort_fr>On m&apos;appelle...</wort_fr>
+		<wort_audio>62_On_mappelle.mp3</wort_audio>
+		<wort_de>Man nennt mich ...</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>On m&apos;appelle Ben.</satz_fr>
+		<satz_audio>62_On_mappelle_Ben.mp3</satz_audio>
+		<satz_de>Man nennt mich Ben.</satz_de>
+	</record>
+	<record num="285">
+		<wort_fr>Nous n&apos;avons pas de / d&apos;...</wort_fr>
+		<wort_audio>62_Nous_navons_pas_de_d.mp3</wort_audio>
+		<wort_de>Wir haben kein ...</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>Nous n&apos;avons pas de chocolat.</satz_fr>
+		<satz_audio>62_Nous_navons_pas_de_chocolat.mp3</satz_audio>
+		<satz_de>Wir haben keine Schokolade.</satz_de>
+	</record>
+	<record num="286">
+		<wort_fr>Nous n&apos;avons plus de / d&apos;...</wort_fr>
+		<wort_audio>62_Nous_navons_plus_de_d.mp3</wort_audio>
+		<wort_de>Wir haben kein ... mehr.</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>Nous n&apos;avons plus de chocolat.</satz_fr>
+		<satz_audio>62_Nous_navons_plus_de_chocolat.mp3</satz_audio>
+		<satz_de>Wir haben keine Schokolade mehr.</satz_de>
+	</record>
+	<record num="287">
+		<wort_fr>Nous n&apos;avons plus de pain.</wort_fr>
+		<wort_audio>62_Nous_navons_plus_de_pain.mp3</wort_audio>
+		<wort_de>Wir haben kein Brot mehr.</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>Nous n&apos;avons plus de pain.</satz_fr>
+		<satz_audio>62_Nous_navons_plus_de_pain.mp3</satz_audio>
+		<satz_de>Wir haben kein Brot mehr.</satz_de>
+	</record>
+	<record num="288">
+		<wort_fr>Nous n&apos;avons plus de biscottes.</wort_fr>
+		<wort_audio>62_Nous_navons_plus_de_biscottes.mp3</wort_audio>
+		<wort_de>Wir haben keinen Zwieback mehr.</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>Nous n&apos;avons plus de biscottes.</satz_fr>
+		<satz_audio>62_Nous_navons_plus_de_biscottes.mp3</satz_audio>
+		<satz_de>Wir haben keinen Zwieback mehr.</satz_de>
+	</record>
+	<record num="289">
+		<wort_fr>Nous n&apos;avons plus d&apos;eau.</wort_fr>
+		<wort_audio>62_Nous_navons_plus_deau.mp3</wort_audio>
+		<wort_de>Wir haben kein Wasser mehr.</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>Nous n&apos;avons plus d&apos;eau.</satz_fr>
+		<satz_audio>62_Nous_navons_plus_deau.mp3</satz_audio>
+		<satz_de>Wir haben kein Wasser mehr.</satz_de>
+	</record>
+	<record num="290">
+		<wort_fr>On a faim.</wort_fr>
+		<wort_audio>62_On_a_faim.mp3</wort_audio>
+		<wort_de>Wir haben Hunger.</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>On a faim.</satz_fr>
+		<satz_audio>62_On_a_faim.mp3</satz_audio>
+		<satz_de>Wir haben Hunger.</satz_de>
+	</record>
+	<record num="291">
+		<wort_fr>Quoi encore?</wort_fr>
+		<wort_audio>62_Quoi_encore.mp3</wort_audio>
+		<wort_de>Was ist denn jetzt schon wieder?</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>Quoi encore?</satz_fr>
+		<satz_audio>62_Quoi_encore.mp3</satz_audio>
+		<satz_de>Was ist denn jetzt schon wieder?</satz_de>
+	</record>
+	<record num="292">
+		<wort_fr>Rentrons!</wort_fr>
+		<wort_audio>62_Rentrons.mp3</wort_audio>
+		<wort_de>Kehren wir nach Hause zurück.</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>Rentrons!</satz_fr>
+		<satz_audio>62_Rentrons.mp3</satz_audio>
+		<satz_de>Kehren wir nach Hause zurück.</satz_de>
+	</record>
+	<record num="293">
+		<wort_fr>Nous allons découvrir...</wort_fr>
+		<wort_audio>62_Nous_allons_decouvrir.mp3</wort_audio>
+		<wort_de>Wir werden ... entdecken.</wort_de>
+		<mag>6.2</mag>
+		<parc>2</parc>
+		<satz_fr>Nous allons découvrir cette ville.</satz_fr>
+		<satz_audio>62_Nous_allons_decouvrir_cette_ville.mp3</satz_audio>
+		<satz_de>Wir werden diese Stadt entdecken.</satz_de>
+	</record>
+	<record num="294">
+		<wort_fr>C&apos;est une sorte de...</wort_fr>
+		<wort_audio>71_C_est_une_sorte_de.mp3</wort_audio>
+		<wort_de>Das ist eine Art ...</wort_de>
+		<mag>7.1</mag>
+		<parc>E</parc>
+		<satz_fr>C&apos;est une sorte d&apos;avion.</satz_fr>
+		<satz_audio>71_C_est_une_sorte_d_avion.mp3</satz_audio>
+		<satz_de>Das ist eine Art Flugzeug.</satz_de>
+	</record>
+	<record num="295">
+		<wort_fr>...est comme un / une...</wort_fr>
+		<wort_audio>71_est_comme_un_une.mp3</wort_audio>
+		<wort_de>... ist wie ...</wort_de>
+		<mag>7.1</mag>
+		<parc>E</parc>
+		<satz_fr>C&apos;est comme un filtre.</satz_fr>
+		<satz_audio>71_C_est_comme_un_filtre.mp3</satz_audio>
+		<satz_de>Das ist wie ein Filter.</satz_de>
+	</record>
+	<record num="296">
+		<wort_fr>...a la forme d&apos;un / d&apos;une...</wort_fr>
+		<wort_audio>71_a_la_forme_d_un_d_une.mp3</wort_audio>
+		<wort_de>... hat die Form ...</wort_de>
+		<mag>7.1</mag>
+		<parc>E</parc>
+		<satz_fr>La ville a la forme d&apos;une fleur.</satz_fr>
+		<satz_audio>71_La_ville_a_la_forme_d_une_fleur.mp3</satz_audio>
+		<satz_de>Die Stadt hat die Form einer Blume.</satz_de>
+	</record>
+	<record num="297">
+		<wort_fr>nouveau / nouvelle</wort_fr>
+		<wort_audio>71_nouveau_nouvelle.mp3</wort_audio>
+		<wort_de>neu</wort_de>
+		<mag>7.1</mag>
+		<parc>E</parc>
+		<satz_fr>C&apos;est un nouveau sport.</satz_fr>
+		<satz_audio>71_C_est_un_nouveau_sport.mp3</satz_audio>
+		<satz_de>Das ist ein neuer Sport.</satz_de>
+	</record>
+	<record num="298">
+		<wort_fr>le premier / la première...</wort_fr>
+		<wort_audio>71_le_premier_la_premiere.mp3</wort_audio>
+		<wort_de>der / die / das erste ...</wort_de>
+		<mag>7.1</mag>
+		<parc>E</parc>
+		<satz_fr>C&apos;est le premier hôtel sous-marin.</satz_fr>
+		<satz_audio>71_C_est_le_premier_hotel_sous_marin.mp3</satz_audio>
+		<satz_de>Das ist das erste Unterwasserhotel.</satz_de>
+	</record>
+	<record num="299">
+		<wort_fr>artificiel / artificielle</wort_fr>
+		<wort_audio>71_artificiel_artificielle.mp3</wort_audio>
+		<wort_de>künstlich</wort_de>
+		<mag>7.1</mag>
+		<parc>E</parc>
+		<satz_fr>C&apos;est une île artificielle.</satz_fr>
+		<satz_audio>71_C_est_une_ile_artificielle.mp3</satz_audio>
+		<satz_de>Das ist eine künstliche Insel.</satz_de>
+	</record>
+	<record num="300">
+		<wort_fr>un véhicule</wort_fr>
+		<wort_audio>71_un_vehicule.mp3</wort_audio>
+		<wort_de>ein Fahrzeug</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ce véhicule est rapide.</satz_fr>
+		<satz_audio>71_Ce_vehicule_est_rapide.mp3</satz_audio>
+		<satz_de>Dieses Fahrzeug ist schnell.</satz_de>
+	</record>
+	<record num="301">
+		<wort_fr>un bâtiment</wort_fr>
+		<wort_audio>71_un_btiment.mp3</wort_audio>
+		<wort_de>ein Gebäude</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est un grand bâtiment.</satz_fr>
+		<satz_audio>71_C_est_un_grand_batiment.mp3</satz_audio>
+		<satz_de>Das ist ein grosses Gebäude.</satz_de>
+	</record>
+	<record num="302">
+		<wort_fr>un robot</wort_fr>
+		<wort_audio>71_un_robot.mp3</wort_audio>
+		<wort_de>ein Roboter</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ce robot parle.</satz_fr>
+		<satz_audio>71_Ce_robot_parle.mp3</satz_audio>
+		<satz_de>Dieser Roboter spricht.</satz_de>
+	</record>
+	<record num="303">
+		<wort_fr>une construction</wort_fr>
+		<wort_audio>71_une_construction.mp3</wort_audio>
+		<wort_de>eine Konstruktion</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est une construction impressionnante.</satz_fr>
+		<satz_audio>71_C_est_une_construction_impressionnante.mp3</satz_audio>
+		<satz_de>Das ist eine beeindruckende Konstruktion.</satz_de>
+	</record>
+	<record num="304">
+		<wort_fr>...ressemble à un / une...</wort_fr>
+		<wort_audio>71_ressemble_a_un_une.mp3</wort_audio>
+		<wort_de>... gleicht ... / ... ist ähnlich wie ...</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ce robot ressemble à un chien.</satz_fr>
+		<satz_audio>71_Ce_robot_ressemble_a_un_chien.mp3</satz_audio>
+		<satz_de>Dieser Roboter gleicht einem Hund.</satz_de>
+	</record>
+	<record num="305">
+		<wort_fr>...mesure... (de long, de large, de haut)</wort_fr>
+		<wort_audio>71_mesure_de_long_de_large_de_haut.mp3</wort_audio>
+		<wort_de>... misst ... (ist ... lang / breit / hoch)</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>La tour mesure 30 mètres de haut.</satz_fr>
+		<satz_audio>71_La_tour_mesure_30_metres_de_haut.mp3</satz_audio>
+		<satz_de>Der Turm ist 30 Meter hoch.</satz_de>
+	</record>
+	<record num="306">
+		<wort_fr>C&apos;est pratique pour...</wort_fr>
+		<wort_audio>71_C_est_pratique_pour.mp3</wort_audio>
+		<wort_de>Das ist für ... praktisch.</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est pratique pour les animaux.</satz_fr>
+		<satz_audio>71_C_est_pratique_pour_les_animaux.mp3</satz_audio>
+		<satz_de>Das ist für die Tiere praktisch.</satz_de>
+	</record>
+	<record num="307">
+		<wort_fr>...est capable de....</wort_fr>
+		<wort_audio>71_est_capable_de.mp3</wort_audio>
+		<wort_de>... ist fähig zu ... / ... kann ...</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Cette voiture est capable de voler.</satz_fr>
+		<satz_audio>71_Cette_voiture_est_capable_de_voler.mp3</satz_audio>
+		<satz_de>Dieses Auto kann fliegen.</satz_de>
+	</record>
+	<record num="308">
+		<wort_fr>...permet de...</wort_fr>
+		<wort_audio>71_permet_de.mp3</wort_audio>
+		<wort_de>... ermöglicht zu ... / erlaubt zu ...</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ce véhicule permet de faire du sport.</satz_fr>
+		<satz_audio>71_Ce_vehicule_permet_de_faire_du_sport.mp3</satz_audio>
+		<satz_de>Dieses Fahrzeug ermöglicht, Sport zu treiben.</satz_de>
+	</record>
+	<record num="309">
+		<wort_fr>faire un tour</wort_fr>
+		<wort_audio>71_faire_un_tour.mp3</wort_audio>
+		<wort_de>eine Runde machen / drehen</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>On fait un tour?</satz_fr>
+		<satz_audio>71_On_fait_un_tour.mp3</satz_audio>
+		<satz_de>Drehen wir eine Runde?</satz_de>
+	</record>
+	<record num="310">
+		<wort_fr>faire du sport</wort_fr>
+		<wort_audio>71_faire_du_sport.mp3</wort_audio>
+		<wort_de>Sport machen / treiben</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Tu fais du sport?</satz_fr>
+		<satz_audio>71_Tu_fais_du_sport.mp3</satz_audio>
+		<satz_de>Treibst du Sport?</satz_de>
+	</record>
+	<record num="311">
+		<wort_fr>voler</wort_fr>
+		<wort_audio>71_voler.mp3</wort_audio>
+		<wort_de>fliegen</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Cette auto vole.</satz_fr>
+		<satz_audio>71_Cette_auto_vole.mp3</satz_audio>
+		<satz_de>Dieses Auto fliegt.</satz_de>
+	</record>
+	<record num="312">
+		<wort_fr>Il / Elle a...</wort_fr>
+		<wort_audio>71_Il_Elle_a.mp3</wort_audio>
+		<wort_de>Er / Sie / Es hat ...</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Il a des ailes.</satz_fr>
+		<satz_audio>71_Il_a_des_ailes.mp3</satz_audio>
+		<satz_de>Er hat Flügel.</satz_de>
+	</record>
+	<record num="313">
+		<wort_fr>Il y a un / une... pour...</wort_fr>
+		<wort_audio>71_Il_y_a_un_une_pour.mp3</wort_audio>
+		<wort_de>Es hat ... , um zu ...</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Il y a un train pour transporter les clients.</satz_fr>
+		<satz_audio>71_Il_y_a_un_train_pour_transporter_les_clients.mp3</satz_audio>
+		<satz_de>Es hat einen Zug, um die Gäste zu transportieren.</satz_de>
+	</record>
+	<record num="314">
+		<wort_fr>Il / Elle / C&apos;est...</wort_fr>
+		<wort_audio>71_Il_Elle_C_est.mp3</wort_audio>
+		<wort_de>Er / Sie / Es / Das ist ...</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Elle est intelligente.</satz_fr>
+		<satz_audio>71_Elle_est_intelligente.mp3</satz_audio>
+		<satz_de>Sie ist intelligent.</satz_de>
+	</record>
+	<record num="315">
+		<wort_fr>intelligent / intelligente</wort_fr>
+		<wort_audio>71_intelligent_intelligente.mp3</wort_audio>
+		<wort_de>intelligent</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est un robot intelligent.</satz_fr>
+		<satz_audio>71_C_est_un_robot_intelligent.mp3</satz_audio>
+		<satz_de>Das ist ein intelligenter Roboter.</satz_de>
+	</record>
+	<record num="316">
+		<wort_fr>sportif / sportive</wort_fr>
+		<wort_audio>71_sportif_sportive.mp3</wort_audio>
+		<wort_de>sportlich</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Il est sportif.</satz_fr>
+		<satz_audio>71_Il_est_sportif.mp3</satz_audio>
+		<satz_de>Er ist sportlich.</satz_de>
+	</record>
+	<record num="317">
+		<wort_fr>rapide</wort_fr>
+		<wort_audio>71_rapide.mp3</wort_audio>
+		<wort_de>schnell</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est une voiture rapide.</satz_fr>
+		<satz_audio>71_C_est_une_voiture_rapide.mp3</satz_audio>
+		<satz_de>Das ist ein schnelles Auto.</satz_de>
+	</record>
+	<record num="318">
+		<wort_fr>Pas mal!</wort_fr>
+		<wort_audio>71_Pas_mal.mp3</wort_audio>
+		<wort_de>Nicht schlecht!</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Pas mal!</satz_fr>
+		<satz_audio>71_Pas_mal.mp3</satz_audio>
+		<satz_de>Nicht schlecht!</satz_de>
+	</record>
+	<record num="319">
+		<wort_fr>Vachement bien!</wort_fr>
+		<wort_audio>71_Vachement_bien.mp3</wort_audio>
+		<wort_de>Saugut!</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>Vachement bien!</satz_fr>
+		<satz_audio>71_Vachement_bien.mp3</satz_audio>
+		<satz_de>Saugut!</satz_de>
+	</record>
+	<record num="320">
+		<wort_fr>C&apos;est fou!</wort_fr>
+		<wort_audio>71_C_est_fou.mp3</wort_audio>
+		<wort_de>Das ist verrückt!</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est fou!</satz_fr>
+		<satz_audio>71_C_est_fou.mp3</satz_audio>
+		<satz_de>Das ist verrückt!</satz_de>
+	</record>
+	<record num="321">
+		<wort_fr>Est-ce qu&apos;on est à / en... ?</wort_fr>
+		<wort_audio>72_Est_ce_qu_on_est_a_en.mp3</wort_audio>
+		<wort_de>Ist man in ... ?</wort_de>
+		<mag>7.2</mag>
+		<parc>E</parc>
+		<satz_fr>Est-ce qu&apos;on est en Afrique?</satz_fr>
+		<satz_audio>72_Est_ce_qu_on_est_en_Afrique.mp3</satz_audio>
+		<satz_de>Ist man in Afrika?</satz_de>
+	</record>
+	<record num="322">
+		<wort_fr>S&apos;agit-il d&apos;un / d&apos;une... ?</wort_fr>
+		<wort_audio>72_S_agit_il_d_un_d_une.mp3</wort_audio>
+		<wort_de>Handelt es sich um ... ?</wort_de>
+		<mag>7.2</mag>
+		<parc>E</parc>
+		<satz_fr>S&apos;agit-il d&apos;un animal?</satz_fr>
+		<satz_audio>72_S_agit_il_d_un_animal.mp3</satz_audio>
+		<satz_de>Handelt es sich um ein Tier?</satz_de>
+	</record>
+	<record num="323">
+		<wort_fr>Est-ce vraiment un / une... ?</wort_fr>
+		<wort_audio>72_Est_ce_vraiment_un_une.mp3</wort_audio>
+		<wort_de>Ist es wirklich ... ?</wort_de>
+		<mag>7.2</mag>
+		<parc>E</parc>
+		<satz_fr>Est-ce vraiment un bateau?</satz_fr>
+		<satz_audio>72_Est_ce_vraiment_un_bateau.mp3</satz_audio>
+		<satz_de>Ist es wirklich ein Schiff?</satz_de>
+	</record>
+	<record num="324">
+		<wort_fr>Au milieu,...</wort_fr>
+		<wort_audio>72_Au_milieu.mp3</wort_audio>
+		<wort_de>In der Mitte ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E</parc>
+		<satz_fr>Au milieu, il y a un cheval.</satz_fr>
+		<satz_audio>72_Au_milieu_il_y_a_un_cheval.mp3</satz_audio>
+		<satz_de>In der Mitte hat es ein Pferd.</satz_de>
+	</record>
+	<record num="325">
+		<wort_fr>incroyable</wort_fr>
+		<wort_audio>72_incroyable.mp3</wort_audio>
+		<wort_de>unglaublich</wort_de>
+		<mag>7.2</mag>
+		<parc>E</parc>
+		<satz_fr>C&apos;est incroyable.</satz_fr>
+		<satz_audio>72_C_est_incroyable.mp3</satz_audio>
+		<satz_de>Das ist unglaublich.</satz_de>
+	</record>
+	<record num="326">
+		<wort_fr>bleu clair</wort_fr>
+		<wort_audio>72_bleu_clair.mp3</wort_audio>
+		<wort_de>hellblau</wort_de>
+		<mag>7.2</mag>
+		<parc>E</parc>
+		<satz_fr>Le ciel est bleu clair.</satz_fr>
+		<satz_audio>72_Le_ciel_est_bleu_clair.mp3</satz_audio>
+		<satz_de>Der Himmel ist hellblau.</satz_de>
+	</record>
+	<record num="327">
+		<wort_fr>bleu foncé</wort_fr>
+		<wort_audio>72_bleu_fonce.mp3</wort_audio>
+		<wort_de>dunkelblau</wort_de>
+		<mag>7.2</mag>
+		<parc>E</parc>
+		<satz_fr>L&apos;océan est  bleu foncé.</satz_fr>
+		<satz_audio>72_L_ocean_est_bleu_fonce.mp3</satz_audio>
+		<satz_de>Der Ozean ist dunkelblau.</satz_de>
+	</record>
+	<record num="328">
+		<wort_fr>Le tableau montre...</wort_fr>
+		<wort_audio>72_Le_tableau_montre.mp3</wort_audio>
+		<wort_de>Das Bild zeigt ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E</parc>
+		<satz_fr>Le tableau montre des formes étranges.</satz_fr>
+		<satz_audio>72_Le_tableau_montre_des_formes_etranges.mp3</satz_audio>
+		<satz_de>Das Bild zeigt seltsame Formen.</satz_de>
+	</record>
+	<record num="329">
+		<wort_fr>La photo montre...</wort_fr>
+		<wort_audio>72_La_photo_montre.mp3</wort_audio>
+		<wort_de>Das Foto zeigt ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E</parc>
+		<satz_fr>La photo montre le lac Léman.</satz_fr>
+		<satz_audio>72_La_photo_montre_le_lac_Leman.mp3</satz_audio>
+		<satz_de>Das Foto zeigt den Genfersee.</satz_de>
+	</record>
+	<record num="330">
+		<wort_fr>Ça se passe à / en... ?</wort_fr>
+		<wort_audio>72_Ca_se_passe_a_en.mp3</wort_audio>
+		<wort_de>Spielt sich das in ... ab?</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ça se passe à Genève?</satz_fr>
+		<satz_audio>72_Ca_se_passe_a_Geneve.mp3</satz_audio>
+		<satz_de>Spielt sich das in Genf ab?</satz_de>
+	</record>
+	<record num="331">
+		<wort_fr>Qu&apos;est-ce que c&apos;est?</wort_fr>
+		<wort_audio>72_Qu_est_ce_que_c_est.mp3</wort_audio>
+		<wort_de>Was ist das?</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Qu&apos;est-ce que c&apos;est?</satz_fr>
+		<satz_audio>72_Qu_est_ce_que_c_est.mp3</satz_audio>
+		<satz_de>Was ist das?</satz_de>
+	</record>
+	<record num="332">
+		<wort_fr>Est-ce peut-être un / une... ?</wort_fr>
+		<wort_audio>72_Est_ce_peut_etre_un_une.mp3</wort_audio>
+		<wort_de>Ist es vielleicht ... ?</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Est-ce peut-être un oiseau?</satz_fr>
+		<satz_audio>72_Est_ce_peut_etre_un_oiseau.mp3</satz_audio>
+		<satz_de>Ist es vielleicht ein Vogel?</satz_de>
+	</record>
+	<record num="333">
+		<wort_fr>Voyez-vous le / la / les... ?</wort_fr>
+		<wort_audio>72_Voyez_vous_le_la_les.mp3</wort_audio>
+		<wort_de>Seht ihr ... ?</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Voyez-vous le guitariste?</satz_fr>
+		<satz_audio>72_Voyez_vous_le_guitariste.mp3</satz_audio>
+		<satz_de>Seht ihr den Gitarristen?</satz_de>
+	</record>
+	<record num="334">
+		<wort_fr>On voit un / une / des...</wort_fr>
+		<wort_audio>72_On_voit_un_une_des.mp3</wort_audio>
+		<wort_de>Man sieht ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>On voit un chameau.</satz_fr>
+		<satz_audio>72_On_voit_un_chameau.mp3</satz_audio>
+		<satz_de>Man sieht ein Kamel.</satz_de>
+	</record>
+	<record num="335">
+		<wort_fr>Ça fait penser à un / une / des...</wort_fr>
+		<wort_audio>72_Ca_fait_penser_a_un_une_des.mp3</wort_audio>
+		<wort_de>Das erinnert an ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ça fait penser à une bibliothèque.</satz_fr>
+		<satz_audio>72_Ca_fait_penser_a_une_bibliotheque.mp3</satz_audio>
+		<satz_de>Das erinnert an eine Bibliothek.</satz_de>
+	</record>
+	<record num="336">
+		<wort_fr>C&apos;est possible?</wort_fr>
+		<wort_audio>72_C_est_possible.mp3</wort_audio>
+		<wort_de>Ist das möglich?</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est possible?</satz_fr>
+		<satz_audio>72_C_est_possible.mp3</satz_audio>
+		<satz_de>Ist das möglich?</satz_de>
+	</record>
+	<record num="337">
+		<wort_fr>C&apos;est difficile à dire.</wort_fr>
+		<wort_audio>72_C_est_difficile_a_dire..mp3</wort_audio>
+		<wort_de>Das ist schwer zu sagen.</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est difficile à dire.</satz_fr>
+		<satz_audio>72_C_est_difficile_a_dire..mp3</satz_audio>
+		<satz_de>Das ist schwer zu sagen.</satz_de>
+	</record>
+	<record num="338">
+		<wort_fr>Au premier plan, il y a un / une / des...</wort_fr>
+		<wort_audio>72_Au_premier_plan_il_y_a_un_une_des.mp3</wort_audio>
+		<wort_de>Im Vordergrund hat es ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Au premier plan, il y a une caravane.</satz_fr>
+		<satz_audio>72_Au_premier_plan_il_y_a_une_caravane.mp3</satz_audio>
+		<satz_de>Im Vordergrund hat es einen Wohnwagen.</satz_de>
+	</record>
+	<record num="339">
+		<wort_fr>A l&apos;arrière-plan, on voit un / une / des...</wort_fr>
+		<wort_audio>72_A_l_arriere_plan_on_voit_un_une_des.mp3</wort_audio>
+		<wort_de>Im Hintergrund sieht man ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>A l&apos;arrière-plan, on voit des maisons.</satz_fr>
+		<satz_audio>72_A_l_arriere_plan_on_voit_des_maisons.mp3</satz_audio>
+		<satz_de>Im Hintergrund sieht man Häuser.</satz_de>
+	</record>
+	<record num="340">
+		<wort_fr>En haut,...</wort_fr>
+		<wort_audio>72_En_haut.mp3</wort_audio>
+		<wort_de>Oben ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>En haut, on voit la Lune.</satz_fr>
+		<satz_audio>72_En_haut_on_voit_la_Lune.mp3</satz_audio>
+		<satz_de>Oben sieht man den Mond.</satz_de>
+	</record>
+	<record num="341">
+		<wort_fr>En bas,...</wort_fr>
+		<wort_audio>72_En_bas.mp3</wort_audio>
+		<wort_de>Unten ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>En bas, on voit une rivière.</satz_fr>
+		<satz_audio>72_En_bas_on_voit_une_riviere.mp3</satz_audio>
+		<satz_de>Unten sieht man einen Fluss.</satz_de>
+	</record>
+	<record num="342">
+		<wort_fr>A gauche,...</wort_fr>
+		<wort_audio>72_A_gauche.mp3</wort_audio>
+		<wort_de>Links ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>A gauche, on voit un astronaute.</satz_fr>
+		<satz_audio>72_A_gauche_on_voit_un_astronaute.mp3</satz_audio>
+		<satz_de>Links sieht man einen Astronauten.</satz_de>
+	</record>
+	<record num="343">
+		<wort_fr>A droite,...</wort_fr>
+		<wort_audio>72_A_droite.mp3</wort_audio>
+		<wort_de>Rechts ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>A droite, il y a un dauphin.</satz_fr>
+		<satz_audio>72_A_droite_il_y_a_un_dauphin.mp3</satz_audio>
+		<satz_de>Rechts hat es einen Delfin.</satz_de>
+	</record>
+	<record num="344">
+		<wort_fr>C&apos;est...</wort_fr>
+		<wort_audio>72_C_est.mp3</wort_audio>
+		<wort_de>Das ist ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est drôle.</satz_fr>
+		<satz_audio>72_C_est_drole.mp3</satz_audio>
+		<satz_de>Das ist lustig.</satz_de>
+	</record>
+	<record num="345">
+		<wort_fr>étrange</wort_fr>
+		<wort_audio>72_etrange.mp3</wort_audio>
+		<wort_de>seltsam, eigenartig</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est étrange.</satz_fr>
+		<satz_audio>72_C_est_etrange.mp3</satz_audio>
+		<satz_de>Das ist seltsam.</satz_de>
+	</record>
+	<record num="346">
+		<wort_fr>bizarre</wort_fr>
+		<wort_audio>72_bizarre.mp3</wort_audio>
+		<wort_de>seltsam, eigenartig</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est bizarre.</satz_fr>
+		<satz_audio>72_C_est_bizarre.mp3</satz_audio>
+		<satz_de>Das ist seltsam.</satz_de>
+	</record>
+	<record num="347">
+		<wort_fr>...est...</wort_fr>
+		<wort_audio>72_est.mp3</wort_audio>
+		<wort_de>... ist ...</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Le bateau est blanc.</satz_fr>
+		<satz_audio>72_Le_bateau_est_blanc.mp3</satz_audio>
+		<satz_de>Das Schiff ist weiss.</satz_de>
+	</record>
+	<record num="348">
+		<wort_fr>bleu / bleue</wort_fr>
+		<wort_audio>72_bleu_bleue.mp3</wort_audio>
+		<wort_de>blau</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Le pull est bleu.</satz_fr>
+		<satz_audio>72_Le_pull_est_bleu.mp3</satz_audio>
+		<satz_de>Der Pulli ist blau.</satz_de>
+	</record>
+	<record num="349">
+		<wort_fr>rouge</wort_fr>
+		<wort_audio>72_rouge.mp3</wort_audio>
+		<wort_de>rot</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Voici un bateau rouge.</satz_fr>
+		<satz_audio>72_Voici_un_bateau_rouge.mp3</satz_audio>
+		<satz_de>Hier ist ein rotes Schiff.</satz_de>
+	</record>
+	<record num="350">
+		<wort_fr>jaune</wort_fr>
+		<wort_audio>72_jaune.mp3</wort_audio>
+		<wort_de>gelb</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Cette montgolfière est jaune.</satz_fr>
+		<satz_audio>72_Cette_montgolfiere_est_jaune.mp3</satz_audio>
+		<satz_de>Dieser Heissluftballon ist gelb.</satz_de>
+	</record>
+	<record num="351">
+		<wort_fr>vert / verte</wort_fr>
+		<wort_audio>72_vert_verte.mp3</wort_audio>
+		<wort_de>grün</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Cette voiture est verte.</satz_fr>
+		<satz_audio>72_Cette_voiture_est_verte.mp3</satz_audio>
+		<satz_de>Dieses Auto ist grün.</satz_de>
+	</record>
+	<record num="352">
+		<wort_fr>brun / brune</wort_fr>
+		<wort_audio>72_brun_brune.mp3</wort_audio>
+		<wort_de>braun</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Il y a 5 formes brunes.</satz_fr>
+		<satz_audio>72_Il_y_a_5_forme_est_brunes.mp3</satz_audio>
+		<satz_de>Es gibt 5 braune Formen.</satz_de>
+	</record>
+	<record num="353">
+		<wort_fr>blanc / blanche</wort_fr>
+		<wort_audio>72_blanc_blanche.mp3</wort_audio>
+		<wort_de>weiss</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je mets mon pull blanc.</satz_fr>
+		<satz_audio>72_Je_mets_mon_pull_blanc.mp3</satz_audio>
+		<satz_de>Ich ziehe meinen weissen Pulli an.</satz_de>
+	</record>
+	<record num="354">
+		<wort_fr>noir / noire</wort_fr>
+		<wort_audio>72_noir_noire.mp3</wort_audio>
+		<wort_de>schwarz</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je mets mon pantalon noir.</satz_fr>
+		<satz_audio>72_Je_mets_mon_pantalon_noir.mp3</satz_audio>
+		<satz_de>Ich ziehe meine schwarze Hose an.</satz_de>
+	</record>
+	<record num="355">
+		<wort_fr>Le titre de ce tableau est «...».</wort_fr>
+		<wort_audio>72_Le_titre_de_ce_tableau_est.mp3</wort_audio>
+		<wort_de>Der Titel dieses Bildes ist "...".</wort_de>
+		<mag>7.2</mag>
+		<parc>E/G</parc>
+		<satz_fr>Le titre de ce tableau est «Le Portugais».</satz_fr>
+		<satz_audio>72_Le_titre_de_ce_tableau_est_Le_Portugais.mp3</satz_audio>
+		<satz_de>Der Titel dieses Bildes ist "Der Portugiese".</satz_de>
+	</record>
+	<record num="356">
+		<wort_fr>Ce n&apos;est qu&apos;un jeu.</wort_fr>
+		<wort_audio>73_Ce_n_est_qu_un_jeu.mp3</wort_audio>
+		<wort_de>Es ist nur ein Spiel.</wort_de>
+		<mag>7.3</mag>
+		<parc>E</parc>
+		<satz_fr>Ce n&apos;est qu&apos;un jeu.</satz_fr>
+		<satz_audio>73_Ce_n_est_qu_un_jeu.mp3</satz_audio>
+		<satz_de>Es ist nur ein Spiel.</satz_de>
+	</record>
+	<record num="357">
+		<wort_fr>On ne triche pas.</wort_fr>
+		<wort_audio>73_On_ne_triche_pas.mp3</wort_audio>
+		<wort_de>Es wird nicht geschummelt.</wort_de>
+		<mag>7.3</mag>
+		<parc>E</parc>
+		<satz_fr>On ne triche pas.</satz_fr>
+		<satz_audio>73_On_ne_triche_pas.mp3</satz_audio>
+		<satz_de>Es wird nicht geschummelt.</satz_de>
+	</record>
+	<record num="358">
+		<wort_fr>Ne t&apos;en fais pas.</wort_fr>
+		<wort_audio>73_Ne_t_en_fais_pas.mp3</wort_audio>
+		<wort_de>Mach dir nichts draus.</wort_de>
+		<mag>7.3</mag>
+		<parc>E</parc>
+		<satz_fr>Ne t&apos;en fais pas.</satz_fr>
+		<satz_audio>73_Ne_t_en_fais_pas.mp3</satz_audio>
+		<satz_de>Mach dir nichts draus.</satz_de>
+	</record>
+	<record num="359">
+		<wort_fr>Calme-toi!</wort_fr>
+		<wort_audio>73_Calme_toi.mp3</wort_audio>
+		<wort_de>Beruhige dich!</wort_de>
+		<mag>7.3</mag>
+		<parc>E</parc>
+		<satz_fr>Calme-toi!</satz_fr>
+		<satz_audio>73_Calme_toi.mp3</satz_audio>
+		<satz_de>Beruhige dich!</satz_de>
+	</record>
+	<record num="360">
+		<wort_fr>Je te laisse mon numéro de portable.</wort_fr>
+		<wort_audio>73_Je_te_laisse_mon_numero_de_portable.mp3</wort_audio>
+		<wort_de>Ich gebe dir meine Handynummer.</wort_de>
+		<mag>7.3</mag>
+		<parc>E</parc>
+		<satz_fr>Je te laisse mon numéro de portable.</satz_fr>
+		<satz_audio>73_Je_te_laisse_mon_numero_de_portable.mp3</satz_audio>
+		<satz_de>Ich gebe dir meine Handynummer.</satz_de>
+	</record>
+	<record num="361">
+		<wort_fr>Cela ne veut rien dire.</wort_fr>
+		<wort_audio>73_Cela_ne_veut_rien_dire.mp3</wort_audio>
+		<wort_de>Das hat nichts zu bedeuten.</wort_de>
+		<mag>7.3</mag>
+		<parc>E</parc>
+		<satz_fr>Cela ne veut rien dire.</satz_fr>
+		<satz_audio>73_Cela_ne_veut_rien_dire.mp3</satz_audio>
+		<satz_de>Das hat nichts zu bedeuten.</satz_de>
+	</record>
+	<record num="362">
+		<wort_fr>Qu&apos;est-ce que vous faites?</wort_fr>
+		<wort_audio>73_Qu_est_ce_que_vous_faites.mp3</wort_audio>
+		<wort_de>Was macht ihr?</wort_de>
+		<mag>7.3</mag>
+		<parc>E</parc>
+		<satz_fr>Qu&apos;est-ce que vous faites?</satz_fr>
+		<satz_audio>73_Qu_est_ce_que_vous_faites.mp3</satz_audio>
+		<satz_de>Was macht ihr?</satz_de>
+	</record>
+	<record num="363">
+		<wort_fr>Tu es prêt? / Tu es prête?</wort_fr>
+		<wort_audio>73_Tu_es_pret_Tu_es_prete.mp3</wort_audio>
+		<wort_de>Bist du bereit?</wort_de>
+		<mag>7.3</mag>
+		<parc>E</parc>
+		<satz_fr>Tu es prêt? / Tu es prête?</satz_fr>
+		<satz_audio>73_Tu_es_pret_Tu_es_prete.mp3</satz_audio>
+		<satz_de>Bist du bereit?</satz_de>
+	</record>
+	<record num="364">
+		<wort_fr>Je me présente: Je suis...</wort_fr>
+		<wort_audio>73_Je_me_presente_Je_suis.mp3</wort_audio>
+		<wort_de>Ich stelle mich vor: Ich bin ...</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je me présente: Je suis Julie.</satz_fr>
+		<satz_audio>73_Je_me_presente_Je_suis_Julie.mp3</satz_audio>
+		<satz_de>Ich stelle mich vor: Ich bin Julie.</satz_de>
+	</record>
+	<record num="365">
+		<wort_fr>Enchanté / Enchantée! Moi, c&apos;est...</wort_fr>
+		<wort_audio>73_Enchante_Enchantee_Moi_c_est.mp3</wort_audio>
+		<wort_de>Freut mich! Ich bin ...</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Enchanté! Moi, c&apos;est Nico.</satz_fr>
+		<satz_audio>73_Enchante_Moi_c_est_Nico.mp3</satz_audio>
+		<satz_de>Freut mich! Ich bin Nico.</satz_de>
+	</record>
+	<record num="366">
+		<wort_fr>C&apos;est écrit «...».</wort_fr>
+		<wort_audio>73_C_est_ecrit.mp3</wort_audio>
+		<wort_de>Es steht "...".</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est écrit «opticien».</satz_fr>
+		<satz_audio>73_C_est_ecrit_Opticien.mp3</satz_audio>
+		<satz_de>Es steht "Optiker".</satz_de>
+	</record>
+	<record num="367">
+		<wort_fr>Je t&apos;explique.</wort_fr>
+		<wort_audio>73_Je_t_explique.mp3</wort_audio>
+		<wort_de>Ich erkläre es dir.</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je t&apos;explique.</satz_fr>
+		<satz_audio>73_Je_t_explique.mp3</satz_audio>
+		<satz_de>Ich erkläre es dir.</satz_de>
+	</record>
+	<record num="368">
+		<wort_fr>Qui a gagné?</wort_fr>
+		<wort_audio>73_Qui_a_gagne.mp3</wort_audio>
+		<wort_de>Wer hat gewonnen?</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Qui a gagné?</satz_fr>
+		<satz_audio>73_Qui_a_gagne.mp3</satz_audio>
+		<satz_de>Wer hat gewonnen?</satz_de>
+	</record>
+	<record num="369">
+		<wort_fr>Ça ne compte pas.</wort_fr>
+		<wort_audio>73_Ca_ne_compte_pas.mp3</wort_audio>
+		<wort_de>Das gilt nicht.</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ça ne compte pas.</satz_fr>
+		<satz_audio>73_Ca_ne_compte_pas.mp3</satz_audio>
+		<satz_de>Das gilt nicht.</satz_de>
+	</record>
+	<record num="370">
+		<wort_fr>Laisse tomber!</wort_fr>
+		<wort_audio>73_Laisse_tomber.mp3</wort_audio>
+		<wort_de>Vergiss es!</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Laisse tomber!</satz_fr>
+		<satz_audio>73_Laisse_tomber.mp3</satz_audio>
+		<satz_de>Vergiss es!</satz_de>
+	</record>
+	<record num="371">
+		<wort_fr>Courage!</wort_fr>
+		<wort_audio>73_Courage.mp3</wort_audio>
+		<wort_de>Kopf hoch!</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Courage!</satz_fr>
+		<satz_audio>73_Courage.mp3</satz_audio>
+		<satz_de>Kopf hoch!</satz_de>
+	</record>
+	<record num="372">
+		<wort_fr>Ce n&apos;est pas grave.</wort_fr>
+		<wort_audio>73_Ce_n_est_pas_grave.mp3</wort_audio>
+		<wort_de>Das ist nicht schlimm.</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ce n&apos;est pas grave.</satz_fr>
+		<satz_audio>73_Ce_n_est_pas_grave.mp3</satz_audio>
+		<satz_de>Das ist nicht schlimm.</satz_de>
+	</record>
+	<record num="373">
+		<wort_fr>Allô?</wort_fr>
+		<wort_audio>73_Allo.mp3</wort_audio>
+		<wort_de>Hallo?</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Allô?</satz_fr>
+		<satz_audio>73_Allo.mp3</satz_audio>
+		<satz_de>Hallo?</satz_de>
+	</record>
+	<record num="374">
+		<wort_fr>Un instant!</wort_fr>
+		<wort_audio>73_Un_instant.mp3</wort_audio>
+		<wort_de>Augenblick!</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Un instant!</satz_fr>
+		<satz_audio>73_Un_instant.mp3</satz_audio>
+		<satz_de>Augenblick!</satz_de>
+	</record>
+	<record num="375">
+		<wort_fr>Je t&apos;entends mal.</wort_fr>
+		<wort_audio>73_Je_t_entends_mal.mp3</wort_audio>
+		<wort_de>Ich höre dich schlecht.</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je t&apos;entends mal.</satz_fr>
+		<satz_audio>73_Je_t_entends_mal.mp3</satz_audio>
+		<satz_de>Ich höre dich schlecht.</satz_de>
+	</record>
+	<record num="376">
+		<wort_fr>Je te rappelle.</wort_fr>
+		<wort_audio>73_Je_te_rappelle..mp3</wort_audio>
+		<wort_de>Ich rufe dich zurück.</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je te rappelle.</satz_fr>
+		<satz_audio>73_Je_te_rappelle..mp3</satz_audio>
+		<satz_de>Ich rufe dich zurück.</satz_de>
+	</record>
+	<record num="377">
+		<wort_fr>A la semaine prochaine!</wort_fr>
+		<wort_audio>73_A_la_semaine_prochaine.mp3</wort_audio>
+		<wort_de>Bis nächste Woche!</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>A la semaine prochaine!</satz_fr>
+		<satz_audio>73_A_la_semaine_prochaine.mp3</satz_audio>
+		<satz_de>Bis nächste Woche!</satz_de>
+	</record>
+	<record num="378">
+		<wort_fr>Fastoche!</wort_fr>
+		<wort_audio>73_Fastoche.mp3</wort_audio>
+		<wort_de>Einfach!</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Fastoche!</satz_fr>
+		<satz_audio>73_Fastoche.mp3</satz_audio>
+		<satz_de>Einfach!</satz_de>
+	</record>
+	<record num="379">
+		<wort_fr>J&apos;en ai marre!</wort_fr>
+		<wort_audio>73_J_en_ai_marre.mp3</wort_audio>
+		<wort_de>Ich habe es satt!</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>J&apos;en ai marre!</satz_fr>
+		<satz_audio>73_J_en_ai_marre.mp3</satz_audio>
+		<satz_de>Ich habe es satt!</satz_de>
+	</record>
+	<record num="380">
+		<wort_fr>C&apos;est trop fort.</wort_fr>
+		<wort_audio>73_C_est_trop_fort.mp3</wort_audio>
+		<wort_de>Das ist wirklich toll.</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est trop fort.</satz_fr>
+		<satz_audio>73_C_est_trop_fort.mp3</satz_audio>
+		<satz_de>Das ist wirklich toll.</satz_de>
+	</record>
+	<record num="381">
+		<wort_fr>J&apos;adore...</wort_fr>
+		<wort_audio>73_J_adore.mp3</wort_audio>
+		<wort_de>Ich mag ... sehr gern.</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>J&apos;adore...</satz_fr>
+		<satz_audio>73_J_adore.mp3</satz_audio>
+		<satz_de>Ich mag ... sehr gern.</satz_de>
+	</record>
+	<record num="382">
+		<wort_fr>On a cours de quoi?</wort_fr>
+		<wort_audio>73_On_a_cours_de_quoi.mp3</wort_audio>
+		<wort_de>Welches Fach haben wir?</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>On a cours de quoi?</satz_fr>
+		<satz_audio>73_On_a_cours_de_quoi.mp3</satz_audio>
+		<satz_de>Welches Fach haben wir?</satz_de>
+	</record>
+	<record num="383">
+		<wort_fr>Qu&apos;est-ce qui se passe?</wort_fr>
+		<wort_audio>73_Qu_est_ce_qui_se_passe.mp3</wort_audio>
+		<wort_de>Was ist los?</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Qu&apos;est-ce qui se passe?</satz_fr>
+		<satz_audio>73_Qu_est_ce_qui_se_passe.mp3</satz_audio>
+		<satz_de>Was ist los?</satz_de>
+	</record>
+	<record num="384">
+		<wort_fr>Je te dérange?</wort_fr>
+		<wort_audio>73_Je_te_derange.mp3</wort_audio>
+		<wort_de>Störe ich dich?</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je te dérange?</satz_fr>
+		<satz_audio>73_Je_te_derange.mp3</satz_audio>
+		<satz_de>Störe ich dich?</satz_de>
+	</record>
+	<record num="385">
+		<wort_fr>maths, informatique, histoire, géo</wort_fr>
+		<wort_audio>73_maths_informatique_histoire_geo.mp3</wort_audio>
+		<wort_de>Mathe, Informatik, Geschichte, Geo</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>On a cours de maths.</satz_fr>
+		<satz_audio>73_On_a_cours_de_maths.mp3</satz_audio>
+		<satz_de>Wir haben Mathe.</satz_de>
+	</record>
+	<record num="386">
+		<wort_fr>Non, pas du tout.</wort_fr>
+		<wort_audio>73_Non_pas_du_tout.mp3</wort_audio>
+		<wort_de>Nein, überhaupt nicht.</wort_de>
+		<mag>7.3</mag>
+		<parc>E/G</parc>
+		<satz_fr>Non, pas du tout.</satz_fr>
+		<satz_audio>73_Non_pas_du_tout.mp3</satz_audio>
+		<satz_de>Nein, überhaupt nicht.</satz_de>
+	</record>
+	<record num="387">
+		<wort_fr>finalement</wort_fr>
+		<wort_audio>74_finalement.mp3</wort_audio>
+		<wort_de>schliesslich</wort_de>
+		<mag>7.4</mag>
+		<parc>E</parc>
+		<satz_fr>Finalement, nous avons fait la fête.</satz_fr>
+		<satz_audio>74_Finalement_nous_avons_fait_la_fete.mp3</satz_audio>
+		<satz_de>Schliesslich haben wir Party gemacht.</satz_de>
+	</record>
+	<record num="388">
+		<wort_fr>en même temps</wort_fr>
+		<wort_audio>74_en_meme_temps.mp3</wort_audio>
+		<wort_de>gleichzeitig</wort_de>
+		<mag>7.4</mag>
+		<parc>E</parc>
+		<satz_fr>En même temps, j&apos;ai vu un OVNI.</satz_fr>
+		<satz_audio>74_En_meme_temps_j_ai_vu_un_OVNI.mp3</satz_audio>
+		<satz_de>Gleichzeitig habe ich ein Ufo gesehen.</satz_de>
+	</record>
+	<record num="389">
+		<wort_fr>malheureusement</wort_fr>
+		<wort_audio>74_malheureusement.mp3</wort_audio>
+		<wort_de>leider</wort_de>
+		<mag>7.4</mag>
+		<parc>E</parc>
+		<satz_fr>Malheureusement, j&apos;ai renversé le lait.</satz_fr>
+		<satz_audio>74_Malheureusement_j_ai_renverse_le_lait.mp3</satz_audio>
+		<satz_de>Leider habe ich die Milch verschüttet.</satz_de>
+	</record>
+	<record num="390">
+		<wort_fr>le lendemain</wort_fr>
+		<wort_audio>74_le_lendemain.mp3</wort_audio>
+		<wort_de>am nächsten Tag</wort_de>
+		<mag>7.4</mag>
+		<parc>E</parc>
+		<satz_fr>Le lendemain, j&apos;ai acheté un portable.</satz_fr>
+		<satz_audio>74_Le_lendemain_j_ai_achete_un_portable.mp3</satz_audio>
+		<satz_de>Am nächsten Tag habe ich ein Handy gekauft.</satz_de>
+	</record>
+	<record num="391">
+		<wort_fr>demander: «...»</wort_fr>
+		<wort_audio>74_demander.mp3</wort_audio>
+		<wort_de>fragen: "..."</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>J&apos;ai demandé: «Qu&apos;est-ce que vous faites?»</satz_fr>
+		<satz_audio>74_J_ai_demande_Qu_est_ce_que_vous_faites.mp3</satz_audio>
+		<satz_de>Ich habe gefragt: "Was macht ihr?"</satz_de>
+	</record>
+	<record num="392">
+		<wort_fr>fermer</wort_fr>
+		<wort_audio>74_fermer.mp3</wort_audio>
+		<wort_de>schliessen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>J&apos;ai fermé la porte.</satz_fr>
+		<satz_audio>74_J_ai_ferme_la_porte.mp3</satz_audio>
+		<satz_de>Ich habe die Türe geschlossen.</satz_de>
+	</record>
+	<record num="393">
+		<wort_fr>rêver</wort_fr>
+		<wort_audio>74_rever.mp3</wort_audio>
+		<wort_de>träumen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>J&apos;ai rêvé d&apos;un crocodile.</satz_fr>
+		<satz_audio>74_J_ai_reve_d_un_crocodile.mp3</satz_audio>
+		<satz_de>Ich habe von einem Krokodil geträumt.</satz_de>
+	</record>
+	<record num="394">
+		<wort_fr>rencontrer</wort_fr>
+		<wort_audio>74_rencontrer.mp3</wort_audio>
+		<wort_de>begegnen, treffen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>On a rencontré un martien.</satz_fr>
+		<satz_audio>74_On_a_rencontre_un_martien.mp3</satz_audio>
+		<satz_de>Wir sind einem Marsmenschen begegnet.</satz_de>
+	</record>
+	<record num="395">
+		<wort_fr>oublier</wort_fr>
+		<wort_audio>74_oublier.mp3</wort_audio>
+		<wort_de>vergessen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>J&apos;ai oublié mon portable.</satz_fr>
+		<satz_audio>74_J_ai_oublie_mon_portable.mp3</satz_audio>
+		<satz_de>Ich habe mein Natel vergessen.</satz_de>
+	</record>
+	<record num="396">
+		<wort_fr>répondre: «...» - répondu</wort_fr>
+		<wort_audio>74_repondre_repondu.mp3</wort_audio>
+		<wort_de>antworten: "..." - geantwortet</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Il a répondu: «D&apos;accord.»</satz_fr>
+		<satz_audio>74_Il_a_repondu_D_accord.mp3</satz_audio>
+		<satz_de>Er hat geantwortet: "Einverstanden."</satz_de>
+	</record>
+	<record num="397">
+		<wort_fr>dormir - dormi</wort_fr>
+		<wort_audio>74_dormir_dormi.mp3</wort_audio>
+		<wort_de>schlafen - geschlafen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>J&apos;ai dormi.</satz_fr>
+		<satz_audio>74_J_ai_dormi.mp3</satz_audio>
+		<satz_de>Ich habe geschlafen.</satz_de>
+	</record>
+	<record num="398">
+		<wort_fr>ouvrir - ouvert</wort_fr>
+		<wort_audio>74_ouvrir_ouvert.mp3</wort_audio>
+		<wort_de>öffnen - geöffnet</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>J&apos;ai ouvert les yeux.</satz_fr>
+		<satz_audio>74_J_ai_ouvert_les_yeux.mp3</satz_audio>
+		<satz_de>Ich habe die Augen geöffnet.</satz_de>
+	</record>
+	<record num="399">
+		<wort_fr>d&apos;abord</wort_fr>
+		<wort_audio>74_d_abord.mp3</wort_audio>
+		<wort_de>zuerst</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>D&apos;abord, j&apos;ai vu un martien.</satz_fr>
+		<satz_audio>74_D_abord_j_ai_vu_un_martien.mp3</satz_audio>
+		<satz_de>Zuerst habe ich einen Marsmenschen gesehen.</satz_de>
+	</record>
+	<record num="400">
+		<wort_fr>ensuite</wort_fr>
+		<wort_audio>74_ensuite.mp3</wort_audio>
+		<wort_de>dann, danach</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ensuite, nous avons rencontré un policier.</satz_fr>
+		<satz_audio>74_Ensuite_nous_avons_rencontre_un_policier.mp3</satz_audio>
+		<satz_de>Danach haben wir einen Polizisten getroffen.</satz_de>
+	</record>
+	<record num="401">
+		<wort_fr>puis</wort_fr>
+		<wort_audio>74_puis.mp3</wort_audio>
+		<wort_de>dann, danach</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Puis, il a dit: «Fastoche!»</satz_fr>
+		<satz_audio>74_Puis_il_a_dit_Fastoche.mp3</satz_audio>
+		<satz_de>Dann hat er gesagt: "Einfach!"</satz_de>
+	</record>
+	<record num="402">
+		<wort_fr>plus tard</wort_fr>
+		<wort_audio>74_plus_tard.mp3</wort_audio>
+		<wort_de>später</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Plus tard, nous avons écouté de la musique.</satz_fr>
+		<satz_audio>74_Plus_tard_nous_avons_ecoute_de_la_musique.mp3</satz_audio>
+		<satz_de>Später haben wir Musik gehört.</satz_de>
+	</record>
+	<record num="403">
+		<wort_fr>tout à coup</wort_fr>
+		<wort_audio>74_tout_a_coup.mp3</wort_audio>
+		<wort_de>plötzlich</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Tout à coup, j&apos;ai entendu l&apos;alarme.</satz_fr>
+		<satz_audio>74_Tout_a_coup_j_ai_entendu_l_alarme.mp3</satz_audio>
+		<satz_de>Plötzlich habe ich ich den Alarm gehört.</satz_de>
+	</record>
+	<record num="404">
+		<wort_fr>un matin</wort_fr>
+		<wort_audio>74_un_matin.mp3</wort_audio>
+		<wort_de>eines Morgens</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Un matin, j&apos;ai vu un chien robot dans la rue.</satz_fr>
+		<satz_audio>74_Un_matin_j_ai_vu_un_chien_robot_dans_la_rue.mp3</satz_audio>
+		<satz_de>Eines Morgens habe ich auf der Strasse einen Roboterhund gesehen.</satz_de>
+	</record>
+	<record num="405">
+		<wort_fr>aller</wort_fr>
+		<wort_audio>74_aller.mp3</wort_audio>
+		<wort_de>gehen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Vous êtes allés au cinéma?</satz_fr>
+		<satz_audio>74_Vous_etes_alles_au_cinema.mp3</satz_audio>
+		<satz_de>Seid ihr ins Kino gegangen?</satz_de>
+	</record>
+	<record num="406">
+		<wort_fr>monter</wort_fr>
+		<wort_audio>74_monter.mp3</wort_audio>
+		<wort_de>hinaufsteigen, einsteigen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Nous sommes montés sur la tour Eiffel.</satz_fr>
+		<satz_audio>74_Nous_sommes_montes_sur_la_Tour_Eiffel.mp3</satz_audio>
+		<satz_de>Wir sind auf den Eiffelturm gestiegen.</satz_de>
+	</record>
+	<record num="407">
+		<wort_fr>arriver</wort_fr>
+		<wort_audio>74_arriver.mp3</wort_audio>
+		<wort_de>ankommen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ils sont arrivés à 15 heures.</satz_fr>
+		<satz_audio>74_Ils_sont_arrives_a_15_heures.mp3</satz_audio>
+		<satz_de>Sie sind um 15 Uhr angekommen.</satz_de>
+	</record>
+	<record num="408">
+		<wort_fr>venir - venu/-e</wort_fr>
+		<wort_audio>74_venir_venu_e.mp3</wort_audio>
+		<wort_de>kommen - gekommen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je suis venu en bus.</satz_fr>
+		<satz_audio>74_Je_suis_venu_en_bus.mp3</satz_audio>
+		<satz_de>Ich bin mit dem Bus gekommen.</satz_de>
+	</record>
+	<record num="409">
+		<wort_fr>retourner</wort_fr>
+		<wort_audio>74_retourner.mp3</wort_audio>
+		<wort_de>zurückkehren</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Tu es retournée à Genève?</satz_fr>
+		<satz_audio>74_Tu_es_retournee_a_Geneve.mp3</satz_audio>
+		<satz_de>Bist du nach Genf zurückgekehrt?</satz_de>
+	</record>
+	<record num="410">
+		<wort_fr>entrer</wort_fr>
+		<wort_audio>74_entrer.mp3</wort_audio>
+		<wort_de>eintreten</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Nous sommes entrés.</satz_fr>
+		<satz_audio>74_Nous_sommes_entres.mp3</satz_audio>
+		<satz_de>Wir sind eingetreten.</satz_de>
+	</record>
+	<record num="411">
+		<wort_fr>rester</wort_fr>
+		<wort_audio>74_rester.mp3</wort_audio>
+		<wort_de>bleiben</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>On est resté jusqu&apos;à minuit.</satz_fr>
+		<satz_audio>74_On_est_reste_jusqu_a_minuit.mp3</satz_audio>
+		<satz_de>Wir sind bis bis Mitternacht geblieben.</satz_de>
+	</record>
+	<record num="412">
+		<wort_fr>partir - parti/-e</wort_fr>
+		<wort_audio>74_partir_parti_e.mp3</wort_audio>
+		<wort_de>weggehen, verreisen - weggegangen, verreist</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Elle est déjà partie.</satz_fr>
+		<satz_audio>74_Elle_est_deja_partie.mp3</satz_audio>
+		<satz_de>Sie ist schon gegangen.</satz_de>
+	</record>
+	<record num="413">
+		<wort_fr>sortir - sorti/-e</wort_fr>
+		<wort_audio>74_sortir_sorti_e.mp3</wort_audio>
+		<wort_de>hinausgehen - hinausgegangen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>A quelle heure tu es sorti?</satz_fr>
+		<satz_audio>74_A_quelle_heure_tu_es_sorti.mp3</satz_audio>
+		<satz_de>Um welche Zeit bist du hinausgegangen?</satz_de>
+	</record>
+	<record num="414">
+		<wort_fr>descendre - descendu/-e</wort_fr>
+		<wort_audio>74_descendre_descendu_e.mp3</wort_audio>
+		<wort_de>hinabsteigen, aussteigen - hinabgestiegen, ausgestiegen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Elle est descendue de la tour.</satz_fr>
+		<satz_audio>74_Elle_est_descendue_de_la_tour.mp3</satz_audio>
+		<satz_de>Sie ist vom Turm hinabgestiegen.</satz_de>
+	</record>
+	<record num="415">
+		<wort_fr>tomber</wort_fr>
+		<wort_audio>74_tomber.mp3</wort_audio>
+		<wort_de>hinfallen, fallen, stürzen</wort_de>
+		<mag>7.4</mag>
+		<parc>E/G</parc>
+		<satz_fr>Tu es tombé?</satz_fr>
+		<satz_audio>74_Tu_es_tombe.mp3</satz_audio>
+		<satz_de>Bist du hingefallen?</satz_de>
+	</record>
+	<record num="416">
+		<wort_fr>Je trouve que... est...</wort_fr>
+		<wort_audio>75_Je_trouve_que_est.mp3</wort_audio>
+		<wort_de>Ich finde, dass ... ... ist.</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je trouve qu&apos;il est sévère.</satz_fr>
+		<satz_audio>75_Je_trouve_quil_est_severe.mp3</satz_audio>
+		<satz_de>Ich finde, dass er streng ist.</satz_de>
+	</record>
+	<record num="417">
+		<wort_fr>Peut-être que... est...</wort_fr>
+		<wort_audio>75_Peut_etre_que_est.mp3</wort_audio>
+		<wort_de>Vielleicht ist ... ...</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Peut-être qu&apos;elle est fâchée?</satz_fr>
+		<satz_audio>75_Peut_etre_quelle_est_fachee.mp3</satz_audio>
+		<satz_de>Vielleicht ist sie wütend?</satz_de>
+	</record>
+	<record num="418">
+		<wort_fr>A mon avis... est...</wort_fr>
+		<wort_audio>75_a_mon_avis_est.mp3</wort_audio>
+		<wort_de>Meiner Meinung nach ist ... ...</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>A mon avis, il est sympa.</satz_fr>
+		<satz_audio>75_A_mon_avis_il_est_sympa.mp3</satz_audio>
+		<satz_de>Meiner Meinung nach ist er sympathisch.</satz_de>
+	</record>
+	<record num="419">
+		<wort_fr>sympa</wort_fr>
+		<wort_audio>75_sympa.mp3</wort_audio>
+		<wort_de>sympathisch</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Elle est vachement sympa!</satz_fr>
+		<satz_audio>75_Elle_est_vachement_sympa.mp3</satz_audio>
+		<satz_de>Sie ist echt sympathisch.</satz_de>
+	</record>
+	<record num="420">
+		<wort_fr>arrogant / arrogante</wort_fr>
+		<wort_audio>75_arrogant_arrogante.mp3</wort_audio>
+		<wort_de>arrogant</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Parfois, ma sœur est arrogante.</satz_fr>
+		<satz_audio>75_Parfois_ma_soeur_est_arrogante.mp3</satz_audio>
+		<satz_de>Manchmal ist meine Schwester arrogant.</satz_de>
+	</record>
+	<record num="421">
+		<wort_fr>malheureux / malheureuse</wort_fr>
+		<wort_audio>75_malheureux_malheureuse.mp3</wort_audio>
+		<wort_de>unglücklich</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Peut-être que Louis est malheureux.</satz_fr>
+		<satz_audio>75_Peut_etre_que_Louis_est_malheureux.mp3</satz_audio>
+		<satz_de>Vielleicht ist Louis unglücklich.</satz_de>
+	</record>
+	<record num="422">
+		<wort_fr>timide</wort_fr>
+		<wort_audio>75_timide.mp3</wort_audio>
+		<wort_de>schüchtern</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Au début j&apos;étais un peu timide.</satz_fr>
+		<satz_audio>75_Au_debut_jetais_un_peu_timide.mp3</satz_audio>
+		<satz_de>Am Anfang war ich etwas schüchtern.</satz_de>
+	</record>
+	<record num="423">
+		<wort_fr>sensible</wort_fr>
+		<wort_audio>75_sensible.mp3</wort_audio>
+		<wort_de>sensibel</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Peut-être que tu es un peu sensible?</satz_fr>
+		<satz_audio>75_Peut_etre_que_tu_es_un_peu_sensible.mp3</satz_audio>
+		<satz_de>Vielleicht bist du ein bisschen sensibel?</satz_de>
+	</record>
+	<record num="424">
+		<wort_fr>sévère</wort_fr>
+		<wort_audio>75_severe.mp3</wort_audio>
+		<wort_de>streng</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Mes parents ne sont pas sévères.</satz_fr>
+		<satz_audio>75_Mes_parents_ne_sont_pas_severes.mp3</satz_audio>
+		<satz_de>Meine Eltern sind nicht streng.</satz_de>
+	</record>
+	<record num="425">
+		<wort_fr>stressé / stressée</wort_fr>
+		<wort_audio>75_stresse_stressee.mp3</wort_audio>
+		<wort_de>nervös</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Qu&apos;est-ce qui se passe? Tu as l&apos;air stressé.</satz_fr>
+		<satz_audio>75_Quest_ce_qui_se_passe_Tu_as_lair_stresse.mp3</satz_audio>
+		<satz_de>Was ist los? Du wirkst nervös.</satz_de>
+	</record>
+	<record num="426">
+		<wort_fr>effrayé / effrayée</wort_fr>
+		<wort_audio>75_effraye_effrayee.mp3</wort_audio>
+		<wort_de>erschrocken</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>A mon avis, Linda est effrayée.</satz_fr>
+		<satz_audio>75_A_mon_avis_Linda_est_effrayee.mp3</satz_audio>
+		<satz_de>Meiner Meinung nach ist Linda erschrocken.</satz_de>
+	</record>
+	<record num="427">
+		<wort_fr>joyeux / joyeuse</wort_fr>
+		<wort_audio>75_joyeux_joyeuse.mp3</wort_audio>
+		<wort_de>fröhlich</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je trouve que mon petit frère est très joyeux.</satz_fr>
+		<satz_audio>75_Je_trouve_que_mon_petit_frere_est_tres_joyeux.mp3</satz_audio>
+		<satz_de>Ich finde, dass mein kleiner Bruder sehr fröhlich ist.</satz_de>
+	</record>
+	<record num="428">
+		<wort_fr>impatient / impatiente</wort_fr>
+		<wort_audio>75_impatient_impatiente.mp3</wort_audio>
+		<wort_de>ungeduldig</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>En ce moment, ma copine est un peu impatiente.</satz_fr>
+		<satz_audio>75_En_ce_moment_ma_copine_est_un_peu_impatiente.mp3</satz_audio>
+		<satz_de>Momentan ist meine Freundin etwas ungeduldig.</satz_de>
+	</record>
+	<record num="429">
+		<wort_fr>maladroit / maladroite</wort_fr>
+		<wort_audio>75_maladroit_maladroite.mp3</wort_audio>
+		<wort_de>ungeschickt</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Est-ce que Lucie est maladroite?</satz_fr>
+		<satz_audio>75_Est_ce_que_Lucie_est_maladroite.mp3</satz_audio>
+		<satz_de>Ist Lucie ungeschickt?</satz_de>
+	</record>
+	<record num="430">
+		<wort_fr>fâché / fâchée</wort_fr>
+		<wort_audio>75_fache_fachee.mp3</wort_audio>
+		<wort_de>zornig, wütend</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Elle est fâchée!</satz_fr>
+		<satz_audio>75_Elle_est_fachee.mp3</satz_audio>
+		<satz_de>Sie ist wütend!</satz_de>
+	</record>
+	<record num="431">
+		<wort_fr>content / contente</wort_fr>
+		<wort_audio>75_content_contente.mp3</wort_audio>
+		<wort_de>zufrieden</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>A mon avis, mon père est content.</satz_fr>
+		<satz_audio>75_A_mon_avis_mon_pere_est_content.mp3</satz_audio>
+		<satz_de>Meiner Meinung nach ist mein Vater zufrieden.</satz_de>
+	</record>
+	<record num="432">
+		<wort_fr>sûr de lui / sûre d&apos;elle</wort_fr>
+		<wort_audio>75_sur_de_lui_sure_d_elle.mp3</wort_audio>
+		<wort_de>selbstsicher</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Ma cousine est sûre d&apos;elle.</satz_fr>
+		<satz_audio>75_Ma_cousine_est_sure_delle_.mp3</satz_audio>
+		<satz_de>Meine Cousine ist selbstsicher.</satz_de>
+	</record>
+	<record num="433">
+		<wort_fr>Je pense que... se sent...</wort_fr>
+		<wort_audio>75_Je_pense_que_se_sent.mp3</wort_audio>
+		<wort_de>Ich denke, dass ... sich ... fühlt.</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je pense qu&apos;il se sent peu sûr de lui.</satz_fr>
+		<satz_audio>75_Je_pense_quil_se_sent_peu_sur_de_lui.mp3</satz_audio>
+		<satz_de>Ich glaube, er fühlt sich nicht so selbstsicher.</satz_de>
+	</record>
+	<record num="434">
+		<wort_fr>triste</wort_fr>
+		<wort_audio>75_triste.mp3</wort_audio>
+		<wort_de>traurig</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Est-ce que tu es triste?</satz_fr>
+		<satz_audio>75_Est_ce_que_tu_es_triste.mp3</satz_audio>
+		<satz_de>Bist du traurig?</satz_de>
+	</record>
+	<record num="435">
+		<wort_fr>mal à l&apos;aise</wort_fr>
+		<wort_audio>75_mal_a_l_aise.mp3</wort_audio>
+		<wort_de>nicht wohl</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Je suis mal à l&apos;aise.</satz_fr>
+		<satz_audio>75_Je_suis_mal_a_laise.mp3</satz_audio>
+		<satz_de>Mir ist nicht wohl.</satz_de>
+	</record>
+	<record num="436">
+		<wort_fr>heureux / heureuse</wort_fr>
+		<wort_audio>75_heureux_heureuse.mp3</wort_audio>
+		<wort_de>glücklich</wort_de>
+		<mag>7.5</mag>
+		<parc>E/G</parc>
+		<satz_fr>Nicole est heureuse. Excellent!</satz_fr>
+		<satz_audio>75_Nicole_est_heureuse_Excellent.mp3</satz_audio>
+		<satz_de>Nicole ist glücklich. Ausgezeichnet!</satz_de>
+	</record>
+	<record num="437">
+		<wort_fr>un caillou</wort_fr>
+		<wort_audio>41_1_un_caillou.mp3</wort_audio>
+		<wort_de>ein Stein</wort_de>
+		<mag>4.1</mag>
+		<parc>1</parc>
+		<satz_fr>Voici un caillou.</satz_fr>
+		<satz_audio>41_1_voici_un_caillou.mp3</satz_audio>
+		<satz_de>Da ist ein Stein.</satz_de>
+	</record>
+	<record num="438">
+		<wort_fr>C&apos;est le pied!</wort_fr>
+		<wort_audio>71_c_est_le_pied.mp3</wort_audio>
+		<wort_de>Das ist der Hammer!</wort_de>
+		<mag>7.1</mag>
+		<parc>E/G</parc>
+		<satz_fr>C&apos;est le pied!</satz_fr>
+		<satz_audio>71_c_est_le_pied.mp3</satz_audio>
+		<satz_de>Das ist der Hammer!</satz_de>
+	</record>
+</data_records>

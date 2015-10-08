@@ -1,0 +1,24 @@
+{
+  "main": "file:///usr/share/prop/fichier/FICHIER_START.html",
+  "name": "Ficher",
+  "description": "",
+  "version": "0.1.0",
+  "keywords": [  ],
+  "window": {
+    "title": "Fichier",
+    "icon": "/usr/share/pixmaps/fichier.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,   
+    "height": 600,
+    "position": "mouse",
+    "min_width": 800,
+    "min_height": 600,
+    "max_width": 1024,
+    "max_height": 738
+     },
+  "webkit": {
+    "plugin": true,
+    "page-cache": true
+  }
+}
