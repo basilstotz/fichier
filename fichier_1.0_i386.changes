@@ -15,14 +15,14 @@ Changes:
  .
    * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 Checksums-Sha1: 
- f418ad2c192539aab2ea500cb2d71cfdb2f6c060 540 fichier_1.0.dsc
- f180eb889ab5069cde351419413e34de5b55e2ea 36422866 fichier_1.0.tar.gz
- 5cdc6b6a7c6a68a96d1f83ac5dc634fb63c6363a 1032 fichier_1.0_all.deb
+ ae71e7f28c4d75c525ccc4c1dc81a4c825420527 540 fichier_1.0.dsc
+ 4def3c486be4345a4f7dfa0e22aab2f6ebec1c50 36424825 fichier_1.0.tar.gz
+ 05c8205ebbafb63769c7d22ce8f525223f441587 1038 fichier_1.0_all.deb
 Checksums-Sha256: 
- ef93a4b880effc2ad7cc1b6136ac35efdf2aa4fcfb34eddb30c7a431e4b6aa86 540 fichier_1.0.dsc
- dd00c49b9614e2013a85d4979640e844765cb8479819fb4212328e03e4bcc1c8 36422866 fichier_1.0.tar.gz
- 53dee86fad62881ea6c9c4e221c8e640ccd12a947f5578831226120d5a5caf5c 1032 fichier_1.0_all.deb
+ 9a2dcf90174bfcff7bbdecd4aa0f636c6330369d11d0aa1bcf1b74d8e6f088bb 540 fichier_1.0.dsc
+ 26fa9c7c20804f9605db0827e7a30594dfc49df328629b5b5d747723158c50fb 36424825 fichier_1.0.tar.gz
+ adcc32c675e2af12061568512add5edb0fa9c3b6829d678fdb53a2e4b6eb9453 1038 fichier_1.0_all.deb
 Files: 
- 58ff374799798bc264f1f176c140abbe 540 unknown optional fichier_1.0.dsc
- 0530f714ffdee334dbf8e7864c9de948 36422866 unknown optional fichier_1.0.tar.gz
- 6c3034e9888fb0c8196e347898aba2b8 1032 unknown optional fichier_1.0_all.deb
+ d6b4ed88754828cea700b6682288c822 540 unknown optional fichier_1.0.dsc
+ bcec66c4a075a4c443e47fae4450259d 36424825 unknown optional fichier_1.0.tar.gz
+ c5af5ce810a67efa7469f6b344b6c313 1038 unknown optional fichier_1.0_all.deb
