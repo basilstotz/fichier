@@ -1,5 +1,5 @@
 {
-  "main": "file:///usr/share/prop/fichier/FICHIER_START.html",
+  "main": "http://localhost:8000/fichier/FICHIER_START.html",
   "name": "Ficher",
   "description": "",
   "version": "0.1.0",
